@@ -10,9 +10,11 @@
   <img src="https://github.com/RLR-GitHub/RLR-GitHub/blob/main/RemyFaceCroppedDownsampled.JPG" alt="Remy Face" width="200" style="border-radius: 50%; box-shadow: 0 0 30px #ff0080, 0 0 60px #00ffe7;">
 </p>
 
-<p align="center" style="font-size:1.3em; color:#00ffe7; font-weight:bold;">
-  <b>Unleashing creativity, confidence, and a splash of razzle dazzle!</b>
-</p>
+<div align="center">
+
+**<span style="color:#00ffe7;">Unleashing creativity, confidence, and a splash of razzle dazzle!</span>**
+
+</div>
 
 ---
 
