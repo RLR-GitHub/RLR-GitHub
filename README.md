@@ -23,6 +23,7 @@ Welcome to <span style="color:#ff0080; font-weight:bold;">RLR-GitHub</span> – 
 ---
 
 ## 🌈 Features
+
 - Dazzling visuals and vibrant design
 - Confident, clean, and creative code
 - Easy to use and contribute
@@ -31,15 +32,19 @@ Welcome to <span style="color:#ff0080; font-weight:bold;">RLR-GitHub</span> – 
 ---
 
 ## 🏁 Getting Started
+
 1. **Clone the repo:**
+
    ```bash
    git clone https://github.com/RLR-GitHub/RLR-GitHub.git
    ```
+
 2. **Explore, contribute, and add your own sparkle!**
 
 ---
 
 ## 💬 Contact & Community
+
 Have questions, ideas, or want to collaborate? Open an issue or reach out! Let’s make something amazing together.
 
 <p align="center" style="font-size:1.2em; color:#ff0080; font-weight:bold;">
