@@ -21,12 +21,12 @@
 
 Passionate **Machine Learning Engineer** and **Computer Vision Specialist** dedicated to developing cutting-edge AI solutions that bridge the gap between theoretical research and practical applications. With expertise spanning deep learning, neural networks, and advanced computer vision techniques, I transform complex data challenges into intelligent, scalable solutions.
 
-<div align="center">
+<center>
 
 ### 🌟 Core Philosophy
 *"Every pixel tells a story, every algorithm solves a problem, and every model opens new possibilities."*
 
-</div>
+</center>
 
 ---
 
