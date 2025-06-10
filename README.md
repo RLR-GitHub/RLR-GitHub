@@ -33,8 +33,9 @@ Passionate **Machine Learning Engineer** and **Computer Vision Specialist** dedi
 ## 💼 Experience Highlights
 
 <table>
+<caption>Experience Highlights Table</caption>
 <tr>
-<td width="33%" align="center">
+<th width="33%" align="center" scope="col">
 
 ### 🔬 Research & Development
 - **5+ years** in ML/AI research
