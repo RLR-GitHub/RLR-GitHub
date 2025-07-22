@@ -13,7 +13,7 @@
 
 <div align="center" style="border: 5px solid #AA0000; padding:2%; border-radius:10%;">
 
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=100&color=00D4FF&center=true&vCenter=true&width=600&lines=Roderick+Lawrence+Renwick;Machine+Learning+Researcher;Computer+Vision+Engineer;AI+Systems+Architect;Deep+Learning+Specialist;VLSI+Design+Engineer;Embedded+Systems+Expert;AI+Safety+Advocate;Autonomous+Systems+Developer;Neural+Network+Innovator;Signal+Processing+Scientist;Hardware+Accelerated+ML;AI%2FML%2FCV%2FEmbedded+Systems)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=100&color=00D4FF&center=true&vCenter=true&width=600&lines=Roderick+Lawrence+Renwick;Machine+Learning+Researcher;Computer+Vision+Engineer;AI+Systems+Architect;Deep+Learning+Specialist;Embedded+Systems+Expert;AI+Safety+Advocate;Autonomous+Systems+Developer;Neural+Network+Innovator;Signal+Processing+Scientist;Hardware+Accelerated+ML;AI%2FML%2FCV%2FEmbedded+Systems)
 
   <!-- Profile Picture -->
   <img src="RemyFaceCroppedDownsampled.JPG?raw=true" alt="Profile Picture" width="75%" style="border:4px solid #AA0000; padding:2%; border-radius:30%; box-shadow:5px 5px 50px rgba(200,100,200,0.8);" />
@@ -47,58 +47,83 @@ I am a Master's student in Electrical & Computer Engineering at Purdue Universit
 
 - **Signal & Image Processing**
 - **Deep Learning & Neural Networks**
-- **VLSI Design**
 - **Computer Vision**
+
+*My undergraduate experience at University of Michigan - Dearborn provided extensive hands-on training in VLSI Design and FPGA development, including hardware neural network implementation in VHDL and transistor-level design for complex digital systems.*
 
 My passion lies in advancing the field of machine learning and computer vision, with a focus on developing innovative neural network architectures and optimizing vision algorithms for edge deployment.
 
 ## 💼 Professional Experience
 
-- **Machine Learning Research Intern** - Raytheon Technologies Research Center (RTRC)
-  - Advanced research in applied ML and computer vision for aerospace/defense applications
-  - Received commendation letter from Pratt & Whitney and RTRC leadership
+### 🚀 **Machine Learning Research Intern** - *Raytheon Technologies Research Center (RTRC)*
+- Advanced research in applied ML and computer vision for aerospace/defense applications
+- Received commendation letter from Pratt & Whitney and RTRC leadership
+- Developed cutting-edge algorithms for mission-critical systems
 
-- **Research Assistant** - University of Michigan, Dearborn
-  - Core team member for autonomous shuttle development
-  - Designed end-to-end ML pipeline for real-time sensory feedback processing
+### 🔬 **Research Assistant** - *University of Michigan, Dearborn*
+- Core team member for autonomous shuttle development project
+- Designed end-to-end ML pipeline for real-time sensory feedback processing
+- Implemented hardware neural networks and VLSI systems for embedded applications
 
-- **Intern** - Ford Motor Company
-  - Functional safety protocols and battery architecture development
+### 🏭 **Engineering Intern** - *Ford Motor Company*
+- Functional safety protocols and battery architecture development
+- Contributed to next-generation automotive safety systems
 
 ## 🔬 Featured Projects
 
-### Advanced ML/CV Systems
+### 🤖 **Advanced ML/CV Systems**
 
-- **Smart Cat Door System**: AI-powered cat identification using UNet segmentation and CNNs
-- **Deep-Fake Cat Generator (Remy)**: WGAN-GP implementation for high-fidelity synthetic image generation
-- **ParkSmart iPhone Application**: Comprehensive parking management system with computer vision
-- **VHDL Perceptron Implementation**: Hardware neural network implementation in VHDL
+- **🐱 Smart Cat Door System**: AI-powered feline identification using UNet segmentation and CNNs for automated access control
+- **🎭 Deep-Fake Cat Generator (Remy)**: WGAN-GP implementation for high-fidelity synthetic image generation with advanced adversarial training
+- **🅿️ ParkSmart iPhone Application**: Comprehensive parking management system integrating computer vision and mobile technologies
+- **⚡ VHDL Perceptron Implementation**: Hardware neural network implementation in VHDL for embedded AI applications
 
-### Research & Development
+### 🎯 **Research & Development**
 
-- Autonomous vehicle perception systems
-- Real-time object detection and tracking algorithms
-- Hardware-accelerated machine learning implementations
+- **Autonomous Vehicle Perception**: Advanced sensor fusion and real-time object detection systems
+- **Edge AI Optimization**: Hardware-accelerated machine learning implementations for resource-constrained environments
+- **VLSI Neural Networks**: Transistor-level design and FPGA implementation of neural network architectures
 
-## 📚 Resources
+## 📚 Resources & Documentation
 
-The website includes educational resources and documentation:
+The portfolio includes comprehensive educational resources and technical documentation:
 
-- Neural Networks & Deep Learning cheatsheets
-- System architecture diagrams
-- Research papers and presentations:
-  - **AI Arms Race** - Global engineering perspectives on AI competition
-  - **VLSI MLP** - Hardware implementation of neural networks (ECE475 Final Project)
-  - **Cat-Net** - AI-powered cat identification system documentation
-  - **Park-Smart** - Low-Level Design presentation for intelligent parking system
-- Technical skills overview and coursework details
+### 📖 **Educational Materials**
+- Neural Networks & Deep Learning reference guides and cheatsheets
+- System architecture diagrams and implementation blueprints
+- Technical skills overview and advanced coursework documentation
 
-## 🛠️ Technologies
+### 📄 **Research Publications & Presentations**
+- **🤖 AI Arms Race** - Global engineering perspectives on AI competition and technological sovereignty
+- **⚡ VLSI MLP** - Hardware implementation of multi-layer perceptrons (ECE475 Final Project)
+- **🐱 Cat-Net** - AI-powered feline identification system: architecture and implementation
+- **🅿️ Park-Smart** - Low-level design presentation for intelligent parking management systems
 
-- **Languages**: Python, C++, VHDL, JavaScript
-- **ML/DL Frameworks**: TensorFlow, PyTorch, OpenCV
-- **Hardware**: FPGA, Embedded Systems, VLSI Design
-- **Web**: HTML5, Tailwind CSS, Responsive Design
+## 🛠️ Technical Stack
+
+### 💻 **Programming Languages**
+
+- **Python** - Primary language for ML/AI development
+- **C++** - High-performance computing and embedded systems
+- **VHDL** - Hardware description and FPGA development
+- **JavaScript** - Web development and interactive applications
+
+### 🧠 **ML/DL Frameworks**
+
+- **TensorFlow** & **PyTorch** - Deep learning model development
+- **OpenCV** - Computer vision and image processing
+- **Scikit-learn** - Traditional machine learning algorithms
+
+### ⚡ **Hardware & Systems**
+
+- **FPGA Development** - Xilinx and Intel platforms
+- **Embedded Systems** - ARM, RISC-V architectures
+- **VLSI Design** - Transistor-level circuit design and optimization
+
+### 🌐 **Web Technologies**
+
+- **HTML5** & **Tailwind CSS** - Modern responsive design
+- **Progressive Web Apps** - Cross-platform application development
 
 ## 🎯 Aspirations
 
@@ -119,18 +144,27 @@ My goal is to bridge the gap between cutting-edge ML research and practical, eff
 
 ## 📞 Contact Me
 
-
-> ### [**Roderick (Rory) Lawrence Renwick**](mailto:RoderickLRenwick@gmail.com)  
->> *For inquiries, collaborations, or feedback, feel free to reach out over G-Mail via the above hyperlink*  
+> ### [**Roderick (Rory) Lawrence Renwick**](mailto:RoderickLRenwick@gmail.com)
+>
+>> *For inquiries, collaborations, or feedback, feel free to reach out over G-Mail via the above hyperlink*
+>
 > ### [**PERSONAL EXPERIENCE WITH APPLIED CV & ML**](r0ry.com)
->> Highlighting my applied CV & ML projects, research, and professional journey in the field of AI  
->> ### **Website Instantiations**  
+>
+>> Highlighting my applied CV & ML projects, research, and professional journey in the field of AI
+>>
+>> ### **Website Instantiations**
+>>
 >> - v2.0 (Updated'25): [rlr-github.io](https://rlr-github.github.io/)
 >> - v1.0 (Archived'20): [r0ry.com](https://www.r0ry.com)
->> ### **Portfolio & Resume** 
+>>
+>> ### **Portfolio & Resume**
+>>
 >> - Portfolio: [rlr-portfolio](https://rlr-github.github.io/2025portfolio.png)
->> - Resume: [rlr-resume](https://rlr-github.github.io/2025resume.png)  
->> ### **Public Handles** 
+>> - Resume: [rlr-resume](https://rlr-github.github.io/2025resume.png)
+>>
+>> ### **Public Handles**
+>>
 >>- **GitHub**: [rlr-github](https://github.com/RLR-GitHub)
 >>- **GMail**: [RoderickLRenwick@gmail.com](mailto:RoderickLRenwick@gmail.com)
+
 ---
