@@ -1,4 +1,10 @@
-# <table width="100%">
+# <link rel="stylesheet" href="terminal-header.css">
+
+<div class="terminal-header">
+  <span class="cyber-admin">_admin</span><span class="cyber-at">@</span><span class="cyber-domain">rory.computer</span><span class="cyber-slash">:</span><span class="cyber-path">/root/maze/</span><span class="cyber-percent">%</span> <span class="neon-pink-glow">./portfolio.sh</span><span class="cursor"></span>
+</div>
+
+<table width="100%">
   <tr>
     <td align="left" valign="middle">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=570&color=00A000&lines=Roderick+(Rory)+Lawrence+Renwick" alt="Typing SVG"/>

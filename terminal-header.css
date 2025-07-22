@@ -1,0 +1,198 @@
+/* Terminal Header Styling for GitHub README */
+:root {
+    --crt-bg: #0a0e0a;
+    --crt-text: #00ff41;
+    --crt-glow: 0 0 10px rgba(0, 255, 65, 0.7);
+}
+
+/* Terminal Header Container */
+.terminal-header {
+    background-color: var(--crt-bg);
+    padding: 1rem 1.5rem;
+    border-radius: 8px;
+    font-family: 'Fira Code', 'Courier New', monospace;
+    font-size: 1.2rem;
+    line-height: 1.4;
+    color: var(--crt-text);
+    text-shadow: var(--crt-glow);
+    border: 2px solid #333;
+    box-shadow: 
+        0 0 20px rgba(0, 255, 65, 0.2), 
+        inset 0 0 10px rgba(0,0,0,0.8);
+    margin: 1rem 0;
+    position: relative;
+    overflow: hidden;
+}
+
+/* CRT scanlines effect */
+.terminal-header::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(
+        rgba(18, 16, 16, 0) 50%, 
+        rgba(0, 0, 0, 0.25) 50%
+    ), linear-gradient(
+        90deg, 
+        rgba(255, 0, 0, 0.06), 
+        rgba(0, 255, 0, 0.02), 
+        rgba(0, 0, 255, 0.06)
+    );
+    background-size: 100% 4px, 3px 100%;
+    pointer-events: none;
+    animation: flicker 2s infinite;
+    z-index: 1;
+}
+
+/* CRT flicker animation */
+@keyframes flicker {
+    0% { opacity: 0.2; }
+    20% { opacity: 1; }
+    80% { opacity: 0.7; }
+    100% { opacity: 1; }
+}
+
+/* Header text elements */
+.terminal-header span {
+    position: relative;
+    z-index: 2;
+}
+
+/* Admin user styling */
+.cyber-admin {
+    color: #00ffff; /* cyan */
+    font-weight: bold;
+    text-shadow: 0 0 10px rgba(0, 255, 255, 0.8);
+}
+
+/* @ symbol styling */
+.cyber-at {
+    color: #00ff00; /* green */
+    text-shadow: 0 0 10px rgba(0, 255, 0, 0.8);
+    font-weight: bold;
+}
+
+/* Domain styling */
+.cyber-domain {
+    color: #ff1493; /* deep pink */
+    font-weight: bold;
+    text-shadow: 0 0 10px rgba(255, 20, 147, 0.8);
+}
+
+/* Colon/slash styling */
+.cyber-slash {
+    color: #f2ff00; /* yellow */
+    font-weight: bold;
+    text-shadow: 0 0 10px rgba(238, 255, 0, 0.8);
+}
+
+/* Path styling */
+.cyber-path {
+    color: #ff8c00; /* orange */
+    font-style: italic;
+    text-shadow: 0 0 10px rgba(255, 140, 0, 0.8);
+}
+
+/* Percent symbol styling */
+.cyber-percent {
+    color: #9370db; /* medium slate blue */
+    font-weight: bold;
+    text-shadow: 0 0 10px rgba(147, 112, 219, 0.8);
+}
+
+/* Command highlight with neon pink glow */
+.neon-pink-glow {
+    color: #ff1493; /* hot neon pink */
+    font-weight: bold;
+    text-shadow: 
+        0 0 5px #ff1493,
+        0 0 10px #ff1493,
+        0 0 15px #ff1493,
+        0 0 20px #ff1493;
+    animation: neon-pink-pulse 3s ease-in-out infinite;
+}
+
+@keyframes neon-pink-pulse {
+    0%, 100% {
+        text-shadow: 
+            0 0 5px #ff1493,
+            0 0 10px #ff1493,
+            0 0 15px #ff1493,
+            0 0 20px #ff1493;
+    }
+    50% {
+        text-shadow: 
+            0 0 10px #ff1493,
+            0 0 20px #ff1493,
+            0 0 30px #ff1493,
+            0 0 40px #ff1493;
+    }
+}
+
+/* Blinking cursor effect */
+.cursor {
+    display: inline-block;
+    background-color: var(--crt-text);
+    box-shadow: var(--crt-glow);
+    width: 0.6em;
+    height: 1.2em;
+    animation: blink 1s step-end infinite;
+    vertical-align: bottom;
+    margin-left: 2px;
+}
+
+@keyframes blink {
+    from, to { 
+        background-color: transparent; 
+        box-shadow: none; 
+    }
+    50% { 
+        background-color: var(--crt-text); 
+        box-shadow: var(--crt-glow); 
+    }
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+    .terminal-header {
+        font-size: 1rem;
+        padding: 0.75rem 1rem;
+        border-radius: 6px;
+    }
+}
+
+@media (max-width: 480px) {
+    .terminal-header {
+        font-size: 0.9rem;
+        padding: 0.5rem 0.75rem;
+        word-break: break-word;
+    }
+    
+    .neon-pink-glow {
+        animation-duration: 2s; /* Faster animation on mobile */
+    }
+}
+
+/* High contrast mode support */
+@media (prefers-contrast: high) {
+    .terminal-header {
+        border-color: #ffffff;
+        box-shadow: none;
+    }
+    
+    .terminal-header::after {
+        display: none; /* Remove scanlines for accessibility */
+    }
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+    .terminal-header::after,
+    .neon-pink-glow,
+    .cursor {
+        animation: none;
+    }
+}
