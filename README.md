@@ -1,21 +1,54 @@
 # <link rel="stylesheet" href="terminal-header.css">
 
 <div class="terminal-header">
-  <span class="cyber-admin">_admin</span><span class="cyber-at">@</span><span class="cyber-domain">rory.computer</span><span class="cyber-slash">:</span><span class="cyber-path">/root/maze/</span><span class="cyber-percent">%</span> <span class="neon-pink-glow">./portfolio.sh</span><span class="cursor"></span>
-</div>
-
-<table width="100%">
-  <tr>
-    <td align="left" valign="middle">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=570&color=00A000&lines=Roderick+(Rory)+Lawrence+Renwick" alt="Typing SVG"/>
-    </td>
-    <td align="right" valign="middle">
-      <img src="https://img.shields.io/badge/Welcome-FF4500?style=for-the-badge&logoColor=white" alt="Welcome"/>
-    </td>
-  </tr>
-</table>
+  <span class="cyber-admin">
+  _admin</span><span class="cyber-at">@rlr-github</span><span class="cyber-domain">.github: </span><span class="cyber-slash"></span><span class="cyber-path"> /root/users/r0ry/</span></span><span class="cyber-percent"> % </span><span class="neon-yellow-glow">./__profile.sh</span></br></br>
 
 
+  <span class="neon-white-glow" style="font-size: 1.1em; font-weight: normal;">
+  > [ _GREETING_ : <b><i> Welcome to my CV & ML playground! </i></b> ]
+  </span class="neon-white-glow"></br>
+
+  <span class="neon-white-glow" style="font-size: 1.1em; font-weight: normal;">
+  > [ _FULLNAME_ : <b><i> RODERICK_LAWRENCE_RENWICK </i></b> ]
+  </span class="neon-white-glow"></br>
+
+  <span class="neon-white-glow" style="font-size: 1.1em; font-weight: normal;">
+  > [ _USERNAME_ : <b><i> RLR-GitHub </i></b> ]
+  </span class="neon-white-glow"></br>
+
+  <span class="neon-white-glow" style="font-size: 1.1em; font-weight: normal;">
+  > [ _NICKNAME_ : <b><i> r0ry </i></b> ]
+  </span class="neon-white-glow"></br></br>
+
+  <!-- <span class="neon-purple-glow">[ RLR-GitHub ]</span> -->
+  <!-- <span class="neon-pink-glow">Roderick (Rory) Lawrence Renwick</span> -->
+  <!-- <span class="neon-yellow-glow">rory</span> -->
+  <!-- <span class="neon-yellow-glow">> [</span><span class="neon-yellow-glow">
+  __FULL_NAME : Roderick (Rory) Lawrence Renwick 
+  </span><span class="neon-yellow-glow">]</span> -->
+  <!-- <br>
+  <span class="neon-yellow-glow">
+  > [ __USER_NAME : Roderick (Rory) Lawrence Renwick ]
+  </span class="neon-yellow-glow">
+  <br>
+  <span class="neon-yellow-glow">
+  > [ __NICK_NAME : Roderick (Rory) Lawrence Renwick ]
+  </span class="neon-yellow-glow">
+  <br><br> -->
+  <!-- <span class="neon-yellow-glow">> [</span><span class="neon-yellow-glow">
+  Roderick (Rory) Lawrence Renwick
+  </span><span class="neon-yellow-glow">]</span> -->
+  <!-- <table width="100%">
+    <tr>
+      <td align="left" valign="middle">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=570&color=00A000&lines=Roderick+(Rory)+Lawrence+Renwick" alt="Typing SVG"/>
+      </td>
+      <td align="right" valign="middle">
+        <img src="https://img.shields.io/badge/Welcome-FF4500?style=for-the-badge&logoColor=white" alt="Welcome"/>
+      </td>
+    </tr>
+  </table> -->
 
 <div align="center" style="border: 5px solid #AA0000; padding:2%; border-radius:10%;">
 
@@ -31,9 +64,10 @@
   [![Email](https://img.shields.io/badge/Email-c9cc7e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:RoderickLRenwick@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-cc9a7e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RLR-GitHub)</hr>
 
-  <code style="color:darkorange; font-weight:bold; font-size:0.6em;"> Welcome to my portfolio playground of applied computer vision and machine learning applications... Transforming data into intelligent solutions with AI and embedded technologies, one project at a time!</code>
+  <code class="neon-yellow-glow" style="font-weight:normal; font-size:1.1em;"><i> Welcome to my portfolio playground of applied computer vision and machine learning applications... Transforming data into intelligent solutions with AI and embedded technologies, one project at a time!</i></code>
 </div>
 
+</div>
 <!-- ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
 
 <!--

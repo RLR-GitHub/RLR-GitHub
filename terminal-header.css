@@ -115,6 +115,78 @@
     animation: neon-pink-pulse 3s ease-in-out infinite;
 }
 
+/* Command highlight with neon yellow glow */
+.neon-yellow-glow {
+    color: #ffff00; /* bright yellow */
+    font-weight: bold;
+    text-shadow: 
+        0 0 5px #ffff00,
+        0 0 10px #ffff00,
+        0 0 15px #ffff00,
+        0 0 20px #ffff00;
+    animation: neon-yellow-pulse 2.5s ease-in-out infinite;
+}
+
+/* Command highlight with neon purple glow */
+.neon-purple-glow {
+    color: #9932cc; /* dark orchid purple */
+    font-weight: bold;
+    text-shadow: 
+        0 0 5px #9932cc,
+        0 0 10px #9932cc,
+        0 0 15px #9932cc,
+        0 0 20px #9932cc;
+    animation: neon-purple-pulse 2s ease-in-out infinite;
+}
+
+/* Command highlight with neon white glow */
+.neon-white-glow {
+    color: #ffffff; /* bright white */
+    font-weight: bold;
+    text-shadow: 
+        0 0 5px #ffffff,
+        0 0 10px #ffffff,
+        0 0 15px #ffffff,
+        0 0 20px #ffffff;
+    animation: neon-white-pulse 3s ease-in-out infinite;
+}
+
+/* Command highlight with neon blue glow */
+.neon-blue-glow {
+    color: #00bfff; /* deep sky blue */
+    font-weight: bold;
+    text-shadow: 
+        0 0 5px #00bfff,
+        0 0 10px #00bfff,
+        0 0 15px #00bfff,
+        0 0 20px #00bfff;
+    animation: neon-blue-pulse 2.8s ease-in-out infinite;
+}
+
+/* Command highlight with neon orange glow */
+.neon-orange-glow {
+    color: #ff8c00; /* dark orange */
+    font-weight: bold;
+    text-shadow: 
+        0 0 5px #ff8c00,
+        0 0 10px #ff8c00,
+        0 0 15px #ff8c00,
+        0 0 20px #ff8c00;
+    animation: neon-orange-pulse 2.3s ease-in-out infinite;
+}
+
+/* Command highlight with neon green glow */
+.neon-green-glow {
+    color: #00ff00; /* bright green */
+    font-weight: bold;
+    text-shadow: 
+        0 0 5px #00ff00,
+        0 0 10px #00ff00,
+        0 0 15px #00ff00,
+        0 0 20px #00ff00;
+    animation: neon-green-pulse 2.7s ease-in-out infinite;
+}
+
 @keyframes neon-pink-pulse {
     0%, 100% {
         text-shadow: 
@@ -129,6 +201,108 @@
             0 0 20px #ff1493,
             0 0 30px #ff1493,
             0 0 40px #ff1493;
+    }
+}
+
+@keyframes neon-yellow-pulse {
+    0%, 100% {
+        text-shadow: 
+            0 0 5px #ffff00,
+            0 0 10px #ffff00,
+            0 0 15px #ffff00,
+            0 0 20px #ffff00;
+    }
+    50% {
+        text-shadow: 
+            0 0 10px #ffff00,
+            0 0 20px #ffff00,
+            0 0 30px #ffff00,
+            0 0 40px #ffff00;
+    }
+}
+
+@keyframes neon-purple-pulse {
+    0%, 100% {
+        text-shadow: 
+            0 0 5px #9932cc,
+            0 0 10px #9932cc,
+            0 0 15px #9932cc,
+            0 0 20px #9932cc;
+    }
+    50% {
+        text-shadow: 
+            0 0 10px #9932cc,
+            0 0 20px #9932cc,
+            0 0 30px #9932cc,
+            0 0 40px #9932cc;
+    }
+}
+
+@keyframes neon-white-pulse {
+    0%, 100% {
+        text-shadow: 
+            0 0 5px #ffffff,
+            0 0 10px #ffffff,
+            0 0 15px #ffffff,
+            0 0 20px #ffffff;
+    }
+    50% {
+        text-shadow: 
+            0 0 10px #ffffff,
+            0 0 20px #ffffff,
+            0 0 30px #ffffff,
+            0 0 40px #ffffff;
+    }
+}
+
+@keyframes neon-blue-pulse {
+    0%, 100% {
+        text-shadow: 
+            0 0 5px #00bfff,
+            0 0 10px #00bfff,
+            0 0 15px #00bfff,
+            0 0 20px #00bfff;
+    }
+    50% {
+        text-shadow: 
+            0 0 10px #00bfff,
+            0 0 20px #00bfff,
+            0 0 30px #00bfff,
+            0 0 40px #00bfff;
+    }
+}
+
+@keyframes neon-orange-pulse {
+    0%, 100% {
+        text-shadow: 
+            0 0 5px #ff8c00,
+            0 0 10px #ff8c00,
+            0 0 15px #ff8c00,
+            0 0 20px #ff8c00;
+    }
+    50% {
+        text-shadow: 
+            0 0 10px #ff8c00,
+            0 0 20px #ff8c00,
+            0 0 30px #ff8c00,
+            0 0 40px #ff8c00;
+    }
+}
+
+@keyframes neon-green-pulse {
+    0%, 100% {
+        text-shadow: 
+            0 0 5px #00ff00,
+            0 0 10px #00ff00,
+            0 0 15px #00ff00,
+            0 0 20px #00ff00;
+    }
+    50% {
+        text-shadow: 
+            0 0 10px #00ff00,
+            0 0 20px #00ff00,
+            0 0 30px #00ff00,
+            0 0 40px #00ff00;
     }
 }
 
@@ -174,6 +348,30 @@
     .neon-pink-glow {
         animation-duration: 2s; /* Faster animation on mobile */
     }
+    
+    .neon-yellow-glow {
+        animation-duration: 2s; /* Faster animation on mobile */
+    }
+    
+    .neon-purple-glow {
+        animation-duration: 1.5s; /* Faster animation on mobile */
+    }
+    
+    .neon-white-glow {
+        animation-duration: 2.5s; /* Faster animation on mobile */
+    }
+    
+    .neon-blue-glow {
+        animation-duration: 2.2s; /* Faster animation on mobile */
+    }
+    
+    .neon-orange-glow {
+        animation-duration: 1.8s; /* Faster animation on mobile */
+    }
+    
+    .neon-green-glow {
+        animation-duration: 2.1s; /* Faster animation on mobile */
+    }
 }
 
 /* High contrast mode support */
@@ -192,6 +390,12 @@
 @media (prefers-reduced-motion: reduce) {
     .terminal-header::after,
     .neon-pink-glow,
+    .neon-yellow-glow,
+    .neon-purple-glow,
+    .neon-white-glow,
+    .neon-blue-glow,
+    .neon-orange-glow,
+    .neon-green-glow,
     .cursor {
         animation: none;
     }
