@@ -1,25 +1,59 @@
 # <link rel="stylesheet" href="terminal-header.css">
+<div style="background:#111111; border-radius:18px; border:2px solid #222; box-shadow:0 0 32px #000a, 0 0 8px #222; padding:2rem 1rem 1.5rem 1rem; margin-bottom:2rem; text-align:left;">
 
-<div class="terminal-header">
-  <span class="cyber-admin">
-  _admin</span><span class="cyber-at">@rlr-github</span><span class="cyber-domain">.github: </span><span class="cyber-slash"></span><span class="cyber-path"> /root/users/r0ry/</span></span><span class="cyber-percent"> % </span><span class="neon-yellow-glow">./__profile.sh</span></br></br>
+  <!-- <span style="color:#00ffff; font-weight:bold; font-size:1.2em;">_admin</span><span style="color:#00ff00;font-weight:bold; font-size:1.2em;">@rlr-github</span><span style="color:#ff1493;font-weight:bold; font-size:1.2em;">.github:</span><span style="color:#f2ff00;font-weight:bold; font-size:1.2em;"> </span><span style="color:#ff8c00;font-style:italic; font-size:1.2em;">/root/r0ry/</span><span style="color:#9370db;font-weight:bold; font-size:1.2em;"> % </span><span style="color:#ffff00;font-weight:bold; font-size:1.2em;"> ./profile.sh</span><br> -->
 
 
-  <span class="neon-white-glow" style="font-size: 1.1em; font-weight: normal;">
-  > [ _GREETING_ : <b><i> Welcome to my CV & ML playground! </i></b> ]
-  </span class="neon-white-glow"></br>
+<!-- Inline constant rendering the same text and font styling -->
+<!-- <div id="admin-shell-constant" style="display:inline;">
+  <span style="color:#00ffff; font-weight:bold; font-size:1.2em;">_admin</span><span style="color:#00ff00;font-weight:bold; font-size:1.2em;">@rlr-github</span><span style="color:#ff1493;font-weight:bold; font-size:1.2em;">.github:</span><span style="color:#f2ff00;font-weight:bold; font-size:1.2em;"> </span><span style="color:#ff8c00;font-style:italic; font-size:1.2em;">/root/r0ry/</span><span style="color:#9370db;font-weight:bold; font-size:1.2em;"> % </span><span style="color:#ffff00;font-weight:bold; font-size:1.2em;"> ./profile.sh</span>
+</div> -->
 
-  <span class="neon-white-glow" style="font-size: 1.1em; font-weight: normal;">
-  > [ _FULLNAME_ : <b><i> RODERICK_LAWRENCE_RENWICK </i></b> ]
-  </span class="neon-white-glow"></br>
+<!-- Typing SVG Animation of the constant text (plain text, colors not supported in SVG) -->
 
-  <span class="neon-white-glow" style="font-size: 1.1em; font-weight: normal;">
-  > [ _USERNAME_ : <b><i> RLR-GitHub </i></b> ]
-  </span class="neon-white-glow"></br>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=100&color=00ffff&center=false&width=800&lines=_admin@rlr-github.github:%20/root/r0ry/%20%25%20./profile.sh)
 
-  <span class="neon-white-glow" style="font-size: 1.1em; font-weight: normal;">
-  > [ _NICKNAME_ : <b><i> r0ry </i></b> ]
-  </span class="neon-white-glow"></br></br>
+
+  <!-- #d8a200ff -->
+  <!-- #00ffc8ff -->
+  <!-- #98004aff -->
+  <!-- #00ff00 -->
+  <!-- #bdbdbdff -->
+  <!-- #ffff00 -->
+  <!-- #ad84ffff -->
+  <!-- #ff1493 -->
+
+  <!-- <span style="color:#bdbdbdff;font-size:1.2em;font-weight:normal;">> [ 
+    _GREETING : <b><i>Welcome to my CV & ML playground!</i></b> ]</span><br> -->
+
+  <span style="color:#bdbdbdff;font-size:1.2em;font-weight:normal;">> [
+     _FULLNAME : <b><i>RODERICK_LAWRENCE_RENWICK</i></b> ]</span><br>
+  <span style="color:#bdbdbdff;font-size:1.2em  ;font-weight:normal;">> [ 
+    _USERNAME : <b><i>RLR-GitHub</i></b> ]</span><br>
+  <span style="color:#bdbdbdff;font-size:1.2em;font-weight:normal;">> [ 
+    _NICKNAME : <b><i>r0ry</i></b> ]</span><br><br>
+
+<div align="center" style="border: 5px solid #AA0000; padding:2%; border-radius:10%;">  
+
+  <!-- #cc00ffff -->
+
+  <!-- Typing SVG Animation -->
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=100&color=cc00ffff&center=true&vCenter=true&width=600&lines=Roderick+Lawrence+Renwick;Machine+Learning+Researcher;Computer+Vision+Engineer;AI+Systems+Architect;Deep+Learning+Specialist;Embedded+Systems+Expert;AI+Safety+Advocate;Autonomous+Systems+Developer;Neural+Network+Innovator;Signal+Processing+Scientist;Hardware+Accelerated+ML;AI%2FML%2FCV%2FEmbedded+Systems)
+
+  <!-- Profile Picture -->
+  <img src="RemyFaceCroppedDownsampled.JPG?raw=true" alt="Profile Picture" width="75%" style="border:4px solid #AA0000; padding:2%; border-radius:30%; box-shadow:5px 5px 50px rgba(200,100,200,0.8);" />
+  
+  [![Website-v2.0](https://img.shields.io/badge/Website--2.0-7ec9cc?style=for-the-badge&logo=apple&logoColor=white)](https://rlr-github.github.io)
+  [![Portfolio'25](https://img.shields.io/badge/Portfolio'25-cc7ec9?style=for-the-badge&logo=rocket&logoColor=white)](https://rlr-github.github.io/2025portfolio.html)
+  [![Resume'25](https://img.shields.io/badge/Resume'25-9a7ecc?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://rlr-github.github.io/2025resume.html)</hr>  
+  [![Website-v1.0](https://img.shields.io/badge/Website--1.0-7ecc9a?style=for-the-badge&logo=linux&logoColor=white)](http://r0ry.com)
+  [![Email](https://img.shields.io/badge/Email-c9cc7e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:RoderickLRenwick@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-cc9a7e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RLR-GitHub)</hr>
+
+  <!-- #e9e7f7ff -->
+
+  <code style="color:#e9e7f7ff;font-weight:bold; font-size:1.25em;"><i> Welcome to my portfolio playground of applied computer vision and machine learning applications... Transforming data into intelligent solutions with AI and embedded technologies, one project at a time!</i></code>
+</div>
 
   <!-- <span class="neon-purple-glow">[ RLR-GitHub ]</span> -->
   <!-- <span class="neon-pink-glow">Roderick (Rory) Lawrence Renwick</span> -->
@@ -50,24 +84,26 @@
     </tr>
   </table> -->
 
-<div align="center" style="border: 5px solid #AA0000; padding:2%; border-radius:10%;">
 
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=100&color=00D4FF&center=true&vCenter=true&width=600&lines=Roderick+Lawrence+Renwick;Machine+Learning+Researcher;Computer+Vision+Engineer;AI+Systems+Architect;Deep+Learning+Specialist;Embedded+Systems+Expert;AI+Safety+Advocate;Autonomous+Systems+Developer;Neural+Network+Innovator;Signal+Processing+Scientist;Hardware+Accelerated+ML;AI%2FML%2FCV%2FEmbedded+Systems)
+</div>
 
-  <!-- Profile Picture -->
-  <img src="RemyFaceCroppedDownsampled.JPG?raw=true" alt="Profile Picture" width="75%" style="border:4px solid #AA0000; padding:2%; border-radius:30%; box-shadow:5px 5px 50px rgba(200,100,200,0.8);" />
+<!-- ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+<!-- ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+
+<!-- <div style="background:#111111; border-radius:18px; border:2px solid #222; box-shadow:0 0 32px #000a, 0 0 8px #222; padding:2rem 1rem 1.5rem 1rem; margin-bottom:2rem; text-align:center;">
+  <span style="color:#00ffff;font-weight:bold; font-size:1.2em;">_admin</span><span style="color:#00ff00;font-weight:bold; font-size:1.2em;">@rlr-github</span><span style="color:#ff1493;font-weight:bold; font-size:1.2em;">.github:</span><span style="color:#f2ff00;font-weight:bold; font-size:1.2em;"> </span><span style="color:#ff8c00;font-style:italic; font-size:1.2em;">/root/users/r0ry/</span><span style="color:#9370db;font-weight:bold; font-size:1.2em;"> % </span><span style="color:#ffff00;font-weight:bold; font-size:1.2em;"> ./__profile.sh</span><br><br>
+
+  <span style="color:#ffffff;font-size:1.1em;font-weight:normal;">> [ <b><i>Welcome to my CV & ML playground!</i></b> ]</span><br>
+  <span style="color:#ffffff;font-size:1.1em;font-weight:normal;">> [ <b><i>RODERICK_LAWRENCE_RENWICK</i></b> ]</span><br>
+  <span style="color:#ffffff;font-size:1.1em;font-weight:normal;">> [ <b><i>RLR-GitHub</i></b> ]</span><br>
+  <span style="color:#ffff00;font-size:1.1em;font-weight:bold;">> [ <b><i>r0ry</i></b> ]</span><br><br>
+
+  <img src="RemyFaceCroppedDownsampled.JPG?raw=true" alt="Profile Picture" width="280" style="border:4px solid #AA0000; border-radius:30%; box-shadow:5px 5px 50px rgba(200,100,200,0.8); margin-top:1rem;" />
+
   
-  [![Website-v2.0](https://img.shields.io/badge/Website--2.0-7ec9cc?style=for-the-badge&logo=apple&logoColor=white)](https://rlr-github.github.io)
-  [![Portfolio'25](https://img.shields.io/badge/Portfolio'25-cc7ec9?style=for-the-badge&logo=rocket&logoColor=white)](https://rlr-github.github.io/2025portfolio.html)
-  [![Resume'25](https://img.shields.io/badge/Resume'25-9a7ecc?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://rlr-github.github.io/2025resume.html)</hr>  
-  [![Website-v1.0](https://img.shields.io/badge/Website--1.0-7ecc9a?style=for-the-badge&logo=linux&logoColor=white)](http://r0ry.com)
-  [![Email](https://img.shields.io/badge/Email-c9cc7e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:RoderickLRenwick@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-cc9a7e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RLR-GitHub)</hr>
 
-  <code class="neon-yellow-glow" style="font-weight:normal; font-size:1.1em;"><i> Welcome to my portfolio playground of applied computer vision and machine learning applications... Transforming data into intelligent solutions with AI and embedded technologies, one project at a time!</i></code>
-</div>
-
-</div>
+</div> -->
+<!-- ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
 <!-- ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
 
 <!--
