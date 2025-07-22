@@ -1,37 +1,9 @@
-# <link rel="stylesheet" href="terminal-header.css">
-<div style="background:#111111; border-radius:18px; border:2px solid #222; box-shadow:0 0 32px #000a, 0 0 8px #222; padding:2rem 1rem 1.5rem 1rem; margin-bottom:2rem; text-align:left;">
+<!-- GitHub Compatible Cyberpunk Terminal Header -->
+<div align="center">
 
-  <!-- <span style="color:#00ffff; font-weight:bold; font-size:1.2em;">_admin</span><span style="color:#00ff00;font-weight:bold; font-size:1.2em;">@rlr-github</span><span style="color:#ff1493;font-weight:bold; font-size:1.2em;">.github:</span><span style="color:#f2ff00;font-weight:bold; font-size:1.2em;"> </span><span style="color:#ff8c00;font-style:italic; font-size:1.2em;">/root/r0ry/</span><span style="color:#9370db;font-weight:bold; font-size:1.2em;"> % </span><span style="color:#ffff00;font-weight:bold; font-size:1.2em;"> ./profile.sh</span><br> -->
+![Terminal Header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFFF&background=111111FF&center=true&vCenter=true&width=800&height=100&lines=_admin%40rlr-github.github%3A+%2Froot%2Fr0ry%2F+%25+.%2Fprofile.sh;%3E%3E+%5B+_FULLNAME+%3A+RODERICK_LAWRENCE_RENWICK+%5D;%3E%3E+%5B+_USERNAME+%3A+RLR-GitHub+%5D;%3E%3E+%5B+_NICKNAME+%3A+r0ry+%5D)
 
-
-<!-- Inline constant rendering the same text and font styling -->
-<!-- <div id="admin-shell-constant" style="display:inline;">
-  <span style="color:#00ffff; font-weight:bold; font-size:1.2em;">_admin</span><span style="color:#00ff00;font-weight:bold; font-size:1.2em;">@rlr-github</span><span style="color:#ff1493;font-weight:bold; font-size:1.2em;">.github:</span><span style="color:#f2ff00;font-weight:bold; font-size:1.2em;"> </span><span style="color:#ff8c00;font-style:italic; font-size:1.2em;">/root/r0ry/</span><span style="color:#9370db;font-weight:bold; font-size:1.2em;"> % </span><span style="color:#ffff00;font-weight:bold; font-size:1.2em;"> ./profile.sh</span>
-</div> -->
-
-<!-- Typing SVG Animation of the constant text (plain text, colors not supported in SVG) -->
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=100&color=00ffff&center=false&width=800&lines=_admin@rlr-github.github:%20/root/r0ry/%20%25%20./profile.sh)
-
-
-  <!-- #d8a200ff -->
-  <!-- #00ffc8ff -->
-  <!-- #98004aff -->
-  <!-- #00ff00 -->
-  <!-- #bdbdbdff -->
-  <!-- #ffff00 -->
-  <!-- #ad84ffff -->
-  <!-- #ff1493 -->
-
-  <!-- <span style="color:#bdbdbdff;font-size:1.2em;font-weight:normal;">> [ 
-    _GREETING : <b><i>Welcome to my CV & ML playground!</i></b> ]</span><br> -->
-
-  <span style="color:#bdbdbdff;font-size:1.2em;font-weight:normal;">> [
-     _FULLNAME : <b><i>RODERICK_LAWRENCE_RENWICK</i></b> ]</span><br>
-  <span style="color:#bdbdbdff;font-size:1.2em  ;font-weight:normal;">> [ 
-    _USERNAME : <b><i>RLR-GitHub</i></b> ]</span><br>
-  <span style="color:#bdbdbdff;font-size:1.2em;font-weight:normal;">> [ 
-    _NICKNAME : <b><i>r0ry</i></b> ]</span><br><br>
+</div>
 
 <div align="center" style="border: 5px solid #AA0000; padding:2%; border-radius:10%;">  
 
@@ -50,9 +22,9 @@
   [![Email](https://img.shields.io/badge/Email-c9cc7e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:RoderickLRenwick@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-cc9a7e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RLR-GitHub)</hr>
 
-  <!-- #e9e7f7ff -->
+  <!-- #ff49adff -->
 
-  <code style="color:#e9e7f7ff;font-weight:bold; font-size:1.25em;"><i> Welcome to my portfolio playground of applied computer vision and machine learning applications... Transforming data into intelligent solutions with AI and embedded technologies, one project at a time!</i></code>
+  <code style="color:#ff49adff;font-weight:bold; font-size:1.25em;"><i> Welcome to my portfolio playground of applied computer vision and machine learning applications... Transforming data into intelligent solutions with AI and embedded technologies, one project at a time!</i></code>
 </div>
 
   <!-- <span class="neon-purple-glow">[ RLR-GitHub ]</span> -->
