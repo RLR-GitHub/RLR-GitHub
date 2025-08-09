@@ -7,212 +7,175 @@
 
 <div align="center" style="border: 5px solid #AA0000; padding:2%; border-radius:10%;">  
 
-  <!-- #cc00ffff -->
-
   <!-- Typing SVG Animation -->
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=100&color=cc00ffff&center=true&vCenter=true&width=600&lines=Roderick+Lawrence+Renwick;Machine+Learning+Researcher;Computer+Vision+Engineer;AI+Systems+Architect;Deep+Learning+Specialist;Embedded+Systems+Expert;AI+Safety+Advocate;Autonomous+Systems+Developer;Neural+Network+Innovator;Signal+Processing+Scientist;Hardware+Accelerated+ML;AI%2FML%2FCV%2FEmbedded+Systems)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=100&color=cc00ffff&center=true&vCenter=true&width=600&lines=Roderick+Lawrence+Renwick;Machine+Learning+Researcher;Computer+Vision+Engineer;AI+Systems+Architect;Deep+Learning+Specialist;Embedded+Systems+Expert;Neural+Network+Innovator;Signal+Processing+Scientist;Hardware+Accelerated+ML;AI%2FML%2FCV%2FEmbedded+Systems)
 
-  <!-- Profile Picture -->
-  <img src="RemyFaceCroppedDownsampled.JPG?raw=true" alt="Profile Picture" width="75%" style="border:4px solid #AA0000; padding:2%; border-radius:30%; box-shadow:5px 5px 50px rgba(200,100,200,0.8);" />
+  <!-- Profile Picture: Use raw.githubusercontent for consistent rendering -->
+  <img src="https://raw.githubusercontent.com/RLR-GitHub/RLR-GitHub/main/RemyFaceCroppedDownsampled.JPG" alt="Profile Picture" width="320" style="border:4px solid #AA0000; padding:2%; border-radius:30%; box-shadow:5px 5px 50px rgba(200,100,200,0.8);" />
   
-  [![Website-v2.0](https://img.shields.io/badge/Website--2.0-7ec9cc?style=for-the-badge&logo=apple&logoColor=white)](https://rlr-github.github.io)
-  [![Portfolio'25](https://img.shields.io/badge/Portfolio'25-cc7ec9?style=for-the-badge&logo=rocket&logoColor=white)](https://rlr-github.github.io/2025portfolio.html)
-  [![Resume'25](https://img.shields.io/badge/Resume'25-9a7ecc?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://rlr-github.github.io/2025resume.html)</hr>  
-  [![Website-v1.0](https://img.shields.io/badge/Website--1.0-7ecc9a?style=for-the-badge&logo=linux&logoColor=white)](http://r0ry.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-7ec9cc?style=for-the-badge&logo=rocket&logoColor=white)](https://rlr-github.github.io)
+  [![AI Manifold](https://img.shields.io/badge/AI_Manifold-cc7ec9?style=for-the-badge&logo=brain&logoColor=white)](https://rory.software)
+  [![Resume](https://img.shields.io/badge/Resume-9a7ecc?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://rlr-github.github.io/2025resume.html)</hr>  
+  [![Professional](https://img.shields.io/badge/Professional-7ecc9a?style=for-the-badge&logo=user&logoColor=white)](https://rodericklrenwick.com)
   [![Email](https://img.shields.io/badge/Email-c9cc7e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:RoderickLRenwick@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-cc9a7e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RLR-GitHub)</hr>
 
-  <!-- #ff49adff -->
-
-  <code style="color:#ff49adff;font-weight:bold; font-size:1.25em;"><i> Welcome to my portfolio playground of applied computer vision and machine learning applications... Transforming data into intelligent solutions with AI and embedded technologies, one project at a time!</i></code>
 </div>
 
-  <!-- <span class="neon-purple-glow">[ RLR-GitHub ]</span> -->
-  <!-- <span class="neon-pink-glow">Roderick (Rory) Lawrence Renwick</span> -->
-  <!-- <span class="neon-yellow-glow">rory</span> -->
-  <!-- <span class="neon-yellow-glow">> [</span><span class="neon-yellow-glow">
-  __FULL_NAME : Roderick (Rory) Lawrence Renwick 
-  </span><span class="neon-yellow-glow">]</span> -->
-  <!-- <br>
-  <span class="neon-yellow-glow">
-  > [ __USER_NAME : Roderick (Rory) Lawrence Renwick ]
-  </span class="neon-yellow-glow">
-  <br>
-  <span class="neon-yellow-glow">
-  > [ __NICK_NAME : Roderick (Rory) Lawrence Renwick ]
-  </span class="neon-yellow-glow">
-  <br><br> -->
-  <!-- <span class="neon-yellow-glow">> [</span><span class="neon-yellow-glow">
-  Roderick (Rory) Lawrence Renwick
-  </span><span class="neon-yellow-glow">]</span> -->
-  <!-- <table width="100%">
-    <tr>
-      <td align="left" valign="middle">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=570&color=00A000&lines=Roderick+(Rory)+Lawrence+Renwick" alt="Typing SVG"/>
-      </td>
-      <td align="right" valign="middle">
-        <img src="https://img.shields.io/badge/Welcome-FF4500?style=for-the-badge&logoColor=white" alt="Welcome"/>
-      </td>
-    </tr>
-  </table> -->
+## Machine Learning & Computer Vision Portfolio
 
-
-</div>
-
-<!-- ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
-<!-- ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
-
-<!-- <div style="background:#111111; border-radius:18px; border:2px solid #222; box-shadow:0 0 32px #000a, 0 0 8px #222; padding:2rem 1rem 1.5rem 1rem; margin-bottom:2rem; text-align:center;">
-  <span style="color:#00ffff;font-weight:bold; font-size:1.2em;">_admin</span><span style="color:#00ff00;font-weight:bold; font-size:1.2em;">@rlr-github</span><span style="color:#ff1493;font-weight:bold; font-size:1.2em;">.github:</span><span style="color:#f2ff00;font-weight:bold; font-size:1.2em;"> </span><span style="color:#ff8c00;font-style:italic; font-size:1.2em;">/root/users/r0ry/</span><span style="color:#9370db;font-weight:bold; font-size:1.2em;"> % </span><span style="color:#ffff00;font-weight:bold; font-size:1.2em;"> ./__profile.sh</span><br><br>
-
-  <span style="color:#ffffff;font-size:1.1em;font-weight:normal;">> [ <b><i>Welcome to my CV & ML playground!</i></b> ]</span><br>
-  <span style="color:#ffffff;font-size:1.1em;font-weight:normal;">> [ <b><i>RODERICK_LAWRENCE_RENWICK</i></b> ]</span><br>
-  <span style="color:#ffffff;font-size:1.1em;font-weight:normal;">> [ <b><i>RLR-GitHub</i></b> ]</span><br>
-  <span style="color:#ffff00;font-size:1.1em;font-weight:bold;">> [ <b><i>r0ry</i></b> ]</span><br><br>
-
-  <img src="RemyFaceCroppedDownsampled.JPG?raw=true" alt="Profile Picture" width="280" style="border:4px solid #AA0000; border-radius:30%; box-shadow:5px 5px 50px rgba(200,100,200,0.8); margin-top:1rem;" />
-
-  
-
-</div> -->
-<!-- ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
-<!-- ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+> This README showcases my expertise in machine learning, computer vision, and hardware design, highlighting projects that bridge AI research with practical applications through comprehensive educational resources and professional experience.
 
 <!--
-This README serves as a comprehensive overview of my portfolio website, showcasing my expertise in machine learning, computer vision, and hardware design. It highlights my academic background, professional experience, and innovative projects that bridge the gap between AI research and practical applications. The site is designed to be a resource for those interested in my work, featuring detailed project descriptions, educational resources, and a professional timeline. The responsive design ensures accessibility across devices, while interactive elements enhance user engagement. My goal is to inspire and inform visitors about the potential of AI and embedded systems in transforming industries.
+Portfolio demonstrating journey from theoretical mathematics to applied ML/CV research, emphasizing hardware-software integration and intelligent systems development.
 -->
 
+## 🎓 Academic Foundation
 
-## 🤖🧠 Machine Learning & Computer Vision Portfolio
+**M.S. Electrical & Computer Engineering** | *Purdue University* | Graduating December 2025
 
-> This README serves as a comprehensive overview of my portfolio website, showcasing my expertise in machine learning, computer vision, and hardware design. It highlights my academic background, professional experience, and innovative projects that bridge the gap between AI research and practical applications. The site is designed to be a resource for those interested in my work, featuring detailed project descriptions, educational resources, and a professional timeline. The responsive design ensures accessibility across devices, while interactive elements enhance user engagement. My goal is to inspire and inform visitors about the potential of AI and embedded systems in transforming industries.
+Areas of Interest: Signal & Image Processing, Deep Learning & Neural Networks, Computer Vision
 
-<!-- Personal portfolio website showcasing my journey in machine learning, computer vision, and hardware design. This site serves as a comprehensive hub for my academic achievements, professional experience, and innovative projects at the intersection of AI and embedded systems.  -->
+Core Coursework:
+- ECE 59500 - Introduction to Deep Learning (CNSIP & EE)
+- ECE 62900 - Introduction to Neural Networks (CE & CNSIP)  
+- ECE 69500 - Deep Learning (CE & VLSI)
+- ECE 60400 - Electromagnetic Field Theory (FO)
+- ECE 60000 - Random Variable and Signals (CNSIP)
+- ECE 595 - Boltzmann Law: Physics to ML (MN)
+- ECE 595 - Computer Vision on Embedded Systems (CE)
+- ENE 554 - Globalization & Engineering
 
-## 🎓 About Me
+Focus: Implementations of ML and CV algorithms for edge deployment and field optics
 
-I am a Master's student in Electrical & Computer Engineering at Purdue University (graduating 2025), specializing in:
+---
 
-- **Signal & Image Processing**
-- **Deep Learning & Neural Networks**
-- **Computer Vision**
+**B.S. Computer Engineering** | *University of Michigan-Dearborn* | Graduated with Distinction
 
-*My undergraduate experience at University of Michigan - Dearborn provided extensive hands-on training in VLSI Design and FPGA development, including hardware neural network implementation in VHDL and transistor-level design for complex digital systems.*
+Core Mentors: [Dr. Paul Watta](mailto:pwatta@umich.edu) (ML/CV), [Dr. Adnan Shaout](mailto:shaout@umich.edu) (Hardware)
 
-My passion lies in advancing the field of machine learning and computer vision, with a focus on developing innovative neural network architectures and optimizing vision algorithms for edge deployment.
+Foundation: VLSI Design, Embedded Systems, Autonomous Vehicle Perception (ECE270/370, ECE475)
 
 ## 💼 Professional Experience
 
-### 🚀 **Machine Learning Research Intern** - *Raytheon Technologies Research Center (RTRC)*
-- Advanced research in applied ML and computer vision for aerospace/defense applications
-- Received commendation letter from Pratt & Whitney and RTRC leadership
-- Developed cutting-edge algorithms for mission-critical systems
+### Machine Learning Research Intern - *Raytheon Technologies Research Center*
+**Supervisor**: [Ozgur Erdinc](mailto:ozgur.erdinc@rtrc.com) - Senior Research Scientist
+- Robotics Intelligence Lab: One of two researchers developing rapid prototype deployment and data collection methods training
+- Utilized robot arms and structured light to enable smart detection of anonymous metal anomaly
+- Recognition: Commendation letter from Pratt & Whitney and RTRC leadership
 
-### 🔬 **Research Assistant** - *University of Michigan, Dearborn*
-- Core team member for autonomous shuttle development project
-- Designed end-to-end ML pipeline for real-time sensory feedback processing
-- Implemented hardware neural networks and VLSI systems for embedded applications
+### Research Assistant - *University of Michigan Autonomous Vehicle Project*  
+**Principal Investigator**: [Dr. Paul Watta](mailto:pwatta@umich.edu) - Associate Professor
+- Core team member for autonomous shuttle development (MDAS.ai)
+- Utilized NVIDIA GTX TX2 for designing multi-input sensory feedback data collection pipeline over CAN bus
 
-### 🏭 **Engineering Intern** - *Ford Motor Company*
-- Functional safety protocols and battery architecture development
-- Contributed to next-generation automotive safety systems
+### Engineering Intern - *Ford Motor Company*
+- Functional safety protocols (ISO 26262) and battery architecture development
 
-## 🔬 Featured Projects
+## 🔬 Featured Projects & Technical Work
 
-### 🤖 **Advanced ML/CV Systems**
+### 🤖 Machine Learning Systems
 
-- **🐱 Smart Cat Door System**: AI-powered feline identification using UNet segmentation and CNNs for automated access control
-- **🎭 Deep-Fake Cat Generator (Remy)**: WGAN-GP implementation for high-fidelity synthetic image generation with advanced adversarial training
-- **🅿️ ParkSmart iPhone Application**: Comprehensive parking management system integrating computer vision and mobile technologies
-- **⚡ VHDL Perceptron Implementation**: Hardware neural network implementation in VHDL for embedded AI applications
+#### [RemyWGAN-GP](https://github.com/RLR-GitHub/RemyWGAN-GP)
+WGAN-GP implementation with training dynamics analysis and mode collapse prevention research.
 
-### 🎯 **Research & Development**
+#### 🐱 Smart Cat Door (CatNet)
+Supervisor: [Dr. Adnan Shaout](mailto:shaout@umich.edu)
+AI-powered feline identification using UNet segmentation and CNN classification with real-time embedded inference.
 
-- **Autonomous Vehicle Perception**: Advanced sensor fusion and real-time object detection systems
-- **Edge AI Optimization**: Hardware-accelerated machine learning implementations for resource-constrained environments
-- **VLSI Neural Networks**: Transistor-level design and FPGA implementation of neural network architectures
+#### 🅿️ ParkSmart Application
+Full-stack parking management system integrating computer vision analysis, web backend, and iOS app.
 
-## 📚 Resources & Documentation
+### ⚡ Hardware-Software Co-Design
 
-The portfolio includes comprehensive educational resources and technical documentation:
+#### [VHDL Neural Network](https://github.com/RLR-GitHub/ECE475)
+Supervisor: [Dr. Adnan Shaout](mailto:shaout@umich.edu)
+Hardware MLP implementation in VHDL for FPGA deployment with transistor-level design.
 
-### 📖 **Educational Materials**
-- Neural Networks & Deep Learning reference guides and cheatsheets
-- System architecture diagrams and implementation blueprints
-- Technical skills overview and advanced coursework documentation
+#### [Multilayer Perceptron Foundation](https://github.com/RLR-GitHub/MultilayerPerceptron)
+Course: ECE370 with [Dr. Paul Watta](mailto:pwatta@umich.edu)
+Python MLP implementation from scratch, providing first-principles understanding of neural network mathematics.
 
-### 📄 **Research Publications & Presentations**
-- **🤖 AI Arms Race** - Global engineering perspectives on AI competition and technological sovereignty
-- **⚡ VLSI MLP** - Hardware implementation of multi-layer perceptrons (ECE475 Final Project)
-- **🐱 Cat-Net** - AI-powered feline identification system: architecture and implementation
-- **🅿️ Park-Smart** - Low-level design presentation for intelligent parking management systems
+### 🌐 Research & Visualization
+
+#### [AI Manifold Visualization](https://rory.software)
+Interactive platform for knowledge topology analysis and meta-cognitive understanding of learning systems.
+
+#### Computer Vision Applications
+Advanced object detection systems with real-time inference and probabilistic confidence analysis.
+
+## 📚 Educational Resources & Coursework
+
+### [Repository Collection](https://github.com/RLR-GitHub)
+- [ECE270](https://github.com/RLR-GitHub/ECE270): Pattern Recognition Fundamentals
+- [ECE370](https://github.com/RLR-GitHub/ECE370): Neural Networks & Deep Learning
+
+### Graduate Coursework Demonstrations
+Advanced implementations of clustering, dimensionality reduction, and classification algorithms developed throughout graduate coursework.
+
+Implemented Techniques: K-means clustering, hierarchical methods, PCA, t-SNE (MATLAB), manifold learning, pattern recognition systems.
 
 ## 🛠️ Technical Stack
 
-### 💻 **Programming Languages**
+**Mathematical Foundations**: 
+- **Convolutional Neural Networks**: Deep understanding of convolution operations, pooling, and feature extraction applied in ParkSmart parking analysis, CatNet feline identification, and MDAS.ai autonomous vehicle perception systems
+- **Random Variables & Stochastic Processes**: Probabilistic modeling and uncertainty quantification for robust AI systems
+- **Signal Processing**: Convolution, cross-correlation, frequency domain analysis, field theory
+- **Statistical Physics**: Boltzmann distributions, thermodynamic principles
+- **Dimensionality Reduction**: PCA, t-SNE, manifold learning techniques (MATLAB implementation)
+- **Optimization**: Gradient descent, backpropagation, adversarial training dynamics
 
-- **Python** - Primary language for ML/AI development
-- **C++** - High-performance computing and embedded systems
-- **VHDL** - Hardware description and FPGA development
-- **JavaScript** - Web development and interactive applications
+**Software**: PyTorch, TensorFlow, OpenCV, MATLAB, Python, C++, JavaScript/TypeScript
 
-### 🧠 **ML/DL Frameworks**
+**Hardware**: VHDL, FPGA development, embedded systems, VLSI design, transistor-level implementation
 
-- **TensorFlow** & **PyTorch** - Deep learning model development
-- **OpenCV** - Computer vision and image processing
-- **Scikit-learn** - Traditional machine learning algorithms
+**Systems**: Linux, Docker, AWS, React, D3.js, full-stack development
 
-### ⚡ **Hardware & Systems**
+## 👥 Academic References
 
-- **FPGA Development** - Xilinx and Intel platforms
-- **Embedded Systems** - ARM, RISC-V architectures
-- **VLSI Design** - Transistor-level circuit design and optimization
+### [Dr. Paul Watta](mailto:pwatta@umich.edu) - Associate Professor, UMich-Dearborn
+Introduced me to CV/ML through ECE270/370 coursework; supervised autonomous vehicle research (MDAS.ai project).
 
-### 🌐 **Web Technologies**
+### [Dr. Adnan Shaout](mailto:shaout@umich.edu) - Professor, UMich-Dearborn  
+Supervised hardware neural network implementation (ECE475) and CatNet independent study.
 
-- **HTML5** & **Tailwind CSS** - Modern responsive design
-- **Progressive Web Apps** - Cross-platform application development
+### [Ozgur Erdinc](mailto:ozgur.erdinc@rtrc.com) - Senior Research Scientist, RTRC
+Directed 2023 ML research internship focusing on mission-critical aerospace applications.
 
-## 🎯 Aspirations
+### [Dr. Adam Plotnick](mailto:aplotnick@psychology.com) - Clinical Psychologist
+Provided ADHD/dyslexia diagnosis and cognitive coaching, transforming learning approach and enabling engineering confidence.
 
-My goal is to bridge the gap between cutting-edge ML research and practical, efficient implementations. I aim to:
+## 🎯 Research Interests & Goals
 
-- Develop intelligent systems that can perceive and understand the visual world
-- Create hardware-optimized ML solutions for real-world applications
-- Contribute to advancing autonomous systems and AI safety
-- Push the boundaries of what's possible at the intersection of hardware and AI
+Current Focus: Computer vision for embedded systems, generative model stability, hardware-accelerated inference, interpretable AI systems
 
-## 🌐 Website Features
+Future Directions: Edge AI optimization, advanced neural architectures, hardware-software co-design for intelligent systems
 
-- **Responsive Design**: Optimized for all devices
-- **Interactive Elements**: Collapsible sections, smooth scrolling
-- **Resource Library**: Downloadable PDFs and educational materials
-- **Project Showcases**: Detailed system diagrams and architecture visualizations
-- **Professional Timeline**: Education and experience sections
+Philosophy: *"Bridging cutting-edge ML research with practical implementations requires understanding systems from mathematical foundations through hardware constraints."*
 
-## 📞 Contact Me
+## 🌐 Digital Presence
 
-> ### [**Roderick (Rory) Lawrence Renwick**](mailto:RoderickLRenwick@gmail.com)
->
->> *For inquiries, collaborations, or feedback, feel free to reach out over G-Mail via the above hyperlink*
->
-> ### [**PERSONAL EXPERIENCE WITH APPLIED CV & ML**](r0ry.com)
->
->> Highlighting my applied CV & ML projects, research, and professional journey in the field of AI
->>
->> ### **Website Instantiations**
->>
->> - v2.0 (Updated'25): [rlr-github.io](https://rlr-github.github.io/)
->> - v1.0 (Archived'20): [r0ry.com](https://www.r0ry.com)
->>
->> ### **Portfolio & Resume**
->>
->> - Portfolio: [rlr-portfolio](https://rlr-github.github.io/2025portfolio.png)
->> - Resume: [rlr-resume](https://rlr-github.github.io/2025resume.png)
->>
->> ### **Public Handles**
->>
->>- **GitHub**: [rlr-github](https://github.com/RLR-GitHub)
->>- **GMail**: [RoderickLRenwick@gmail.com](mailto:RoderickLRenwick@gmail.com)
+- Portfolio: [rlr-github.github.io](https://rlr-github.github.io)
+- Professional: [rodericklrenwick.com](https://rodericklrenwick.com)  
+- Research Platform: [rory.software](https://rory.software)
+- GitHub: [github.com/RLR-GitHub](https://github.com/RLR-GitHub)
+
+### 📧 Contact
+- Primary: [RoderickLRenwick@gmail.com](mailto:RoderickLRenwick@gmail.com)
+- Academic: [rrenwick@purdue.edu](mailto:rrenwick@purdue.edu)
+
+## 🤝 Collaboration & Opportunities
+
+Seeking: Research opportunities in ML/CV, hardware-accelerated AI, and edge deployment systems. Open to fellowships, collaborative research, and industry partnerships.
+
+Unique Value: Hardware-software-theory integration enabling comprehensive AI system understanding from mathematical foundations to silicon implementation.
 
 ---
+
+<div align="center">
+
+*"Turn on, tune in, add Gaussian noise, and drop out"*
+
+*"Dyslexia is a feature, not a bug"* - enabling unique pattern recognition and systems thinking capabilities
+
+</div>
