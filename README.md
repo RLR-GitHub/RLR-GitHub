@@ -142,9 +142,6 @@ Supervised hardware neural network implementation (ECE475) and CatNet independen
 ### [Ozgur Erdinc](mailto:ozgur.erdinc@rtrc.com) - Senior Research Scientist, RTRC
 Directed 2023 ML research internship focusing on mission-critical aerospace applications.
 
-### [Dr. Adam Plotnick](mailto:aplotnick@psychology.com) - Clinical Psychologist
-Provided ADHD/dyslexia diagnosis and cognitive coaching, transforming learning approach and enabling engineering confidence.
-
 ## 🎯 Research Interests & Goals
 
 Current Focus: Computer vision for embedded systems, generative model stability, hardware-accelerated inference, interpretable AI systems
@@ -163,6 +160,18 @@ Philosophy: *"Bridging cutting-edge ML research with practical implementations r
 ### 📧 Contact
 - Primary: [RoderickLRenwick@gmail.com](mailto:RoderickLRenwick@gmail.com)
 - Academic: [rrenwick@purdue.edu](mailto:rrenwick@purdue.edu)
+
+## 🚀 Portfolio Enhancement Suggestions
+
+### Recommended Improvements:
+- **📊 Metrics Dashboard**: Add quantitative achievements (publications, citations, project impact metrics)
+- **🎥 Project Demos**: Include video demonstrations or interactive previews of key projects
+- **📝 Technical Blog**: Link to articles explaining complex ML/CV concepts and research insights
+- **🏆 Awards & Recognition**: Dedicated section for honors, competitions, and certifications
+- **📈 Skills Matrix**: Visual representation of technical competencies with proficiency levels
+- **🔗 Collaboration Network**: Interactive map of academic and industry connections
+- **📚 Publications**: Bibliography of papers, conference presentations, and research contributions
+- **💡 Innovation Timeline**: Visual career progression showing evolution of expertise
 
 ## 🤝 Collaboration & Opportunities
 
