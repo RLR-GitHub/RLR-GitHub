@@ -3,14 +3,37 @@
     --crt-bg: #0a0e0a;
     --crt-text: #00ff41;
     --crt-glow: 0 0 10px rgba(0, 255, 65, 0.7);
-    --base-font-size: 1.2rem;
+    --base-font-size: 1.1rem;
     --mobile-font-size: 0.9rem;
+
+    /* Color Palette */
+    --color-cyber-admin: #00ffff; /* cyan */
+    --color-cyber-at: #00ff00; /* green */
+    --color-cyber-domain: #ff1493; /* deep pink */
+    --color-cyber-slash: #f2ff00; /* yellow */
+    --color-cyber-path: #ff8c00; /* orange */
+    --color-cyber-percent: #9370db; /* medium slate blue */
+    --color-neon-pink: #ff1493;
+    --color-neon-yellow: #ffff00;
+    --color-neon-purple: #9932cc;
+    --color-neon-white: #ffffff;
+    --color-neon-blue: #00bfff;
+    --color-neon-orange: #ff8c00;
+    --color-neon-green: #00ff00;
+
+    /* Glow Effects */
+    --glow-cyber-admin: 0 0 10px var(--color-cyber-admin);
+    --glow-cyber-at: 0 0 10px var(--color-cyber-at);
+    --glow-cyber-domain: 0 0 10px var(--color-cyber-domain);
+    --glow-cyber-slash: 0 0 10px var(--color-cyber-slash);
+    --glow-cyber-path: 0 0 10px var(--color-cyber-path);
+    --glow-cyber-percent: 0 0 10px var(--color-cyber-percent);
 }
 
 /* Terminal Header Container */
 .terminal-header {
     background-color: var(--crt-bg);
-    padding: 1rem 1.5rem;
+    padding: 0.8rem 1.2rem;
     border-radius: 8px;
     font-family: 'Fira Code', 'Courier New', 'Liberation Mono', 'Consolas', monospace;
     font-size: var(--base-font-size);
@@ -18,20 +41,12 @@
     color: var(--crt-text);
     text-shadow: var(--crt-glow);
     border: 2px solid #333;
-    box-shadow: 
-        0 0 20px rgba(0, 255, 65, 0.2), 
-        inset 0 0 10px rgba(0,0,0,0.8);
+    box-shadow: 0 0 20px rgba(0, 255, 65, 0.2), inset 0 0 10px rgba(0,0,0,0.8);
     margin: 1rem 0;
     position: relative;
     overflow: hidden;
-    /* Ensure consistent box-sizing */
     box-sizing: border-box;
-    /* Prevent text selection issues */
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
     user-select: none;
-    /* Improve text rendering */
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -45,15 +60,7 @@
     left: 0;
     right: 0;
     bottom: 0;
-    background: linear-gradient(
-        rgba(18, 16, 16, 0) 50%, 
-        rgba(0, 0, 0, 0.25) 50%
-    ), linear-gradient(
-        90deg, 
-        rgba(255, 0, 0, 0.06), 
-        rgba(0, 255, 0, 0.02), 
-        rgba(0, 0, 255, 0.06)
-    );
+    background: linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.25) 50%), linear-gradient(90deg, rgba(255, 0, 0, 0.06), rgba(0, 255, 0, 0.02), rgba(0, 0, 255, 0.06));
     background-size: 100% 4px, 3px 100%;
     pointer-events: none;
     animation: flicker 2s infinite;
@@ -74,264 +81,36 @@
     z-index: 2;
 }
 
-/* Admin user styling */
-.cyber-admin {
-    color: #00ffff; /* cyan */
-    font-weight: bold;
-    text-shadow: 0 0 10px rgba(0, 255, 255, 0.8);
-}
+.cyber-admin { color: var(--color-cyber-admin); text-shadow: var(--glow-cyber-admin); font-weight: bold; }
+.cyber-at { color: var(--color-cyber-at); text-shadow: var(--glow-cyber-at); font-weight: bold; }
+.cyber-domain { color: var(--color-cyber-domain); text-shadow: var(--glow-cyber-domain); font-weight: bold; }
+.cyber-slash { color: var(--color-cyber-slash); text-shadow: var(--glow-cyber-slash); font-weight: bold; }
+.cyber-path { color: var(--color-cyber-path); text-shadow: var(--glow-cyber-path); font-style: italic; }
+.cyber-percent { color: var(--color-cyber-percent); text-shadow: var(--glow-cyber-percent); font-weight: bold; }
 
-/* @ symbol styling */
-.cyber-at {
-    color: #00ff00; /* green */
-    text-shadow: 0 0 10px rgba(0, 255, 0, 0.8);
-    font-weight: bold;
-}
-
-/* Domain styling */
-.cyber-domain {
-    color: #ff1493; /* deep pink */
-    font-weight: bold;
-    text-shadow: 0 0 10px rgba(255, 20, 147, 0.8);
-}
-
-/* Colon/slash styling */
-.cyber-slash {
-    color: #f2ff00; /* yellow */
-    font-weight: bold;
-    text-shadow: 0 0 10px rgba(238, 255, 0, 0.8);
-}
-
-/* Path styling */
-.cyber-path {
-    color: #ff8c00; /* orange */
-    font-style: italic;
-    text-shadow: 0 0 10px rgba(255, 140, 0, 0.8);
-}
-
-/* Percent symbol styling */
-.cyber-percent {
-    color: #9370db; /* medium slate blue */
-    font-weight: bold;
-    text-shadow: 0 0 10px rgba(147, 112, 219, 0.8);
-}
-
-/* Base neon glow styling - shared properties */
-.neon-pink-glow,
-.neon-yellow-glow,
-.neon-purple-glow,
-.neon-white-glow,
-.neon-blue-glow,
-.neon-orange-glow,
-.neon-green-glow {
+/* Base neon glow styling */
+.neon-glow {
     font-weight: bold;
     position: relative;
     z-index: 2;
     display: inline-block;
-    /* Ensure consistent text rendering */
     text-rendering: optimizeLegibility;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-    /* Prevent layout shift during animation */
     will-change: text-shadow;
     backface-visibility: hidden;
-    -webkit-backface-visibility: hidden;
+    animation: neon-pulse 2.5s ease-in-out infinite, flicker 3s infinite;
 }
 
-/* Command highlight with neon pink glow */
-.neon-pink-glow {
-    color: #ff1493; /* hot neon pink */
-    text-shadow: 
-        0 0 5px #ff1493,
-        0 0 10px #ff1493,
-        0 0 15px #ff1493,
-        0 0 20px #ff1493;
-    animation: neon-pink-pulse 3s ease-in-out infinite;
-}
+.neon-pink-glow { color: var(--color-neon-pink); text-shadow: 0 0 5px var(--color-neon-pink), 0 0 10px var(--color-neon-pink), 0 0 15px var(--color-neon-pink); }
+.neon-yellow-glow { color: var(--color-neon-yellow); text-shadow: 0 0 5px var(--color-neon-yellow), 0 0 10px var(--color-neon-yellow), 0 0 15px var(--color-neon-yellow); }
+.neon-purple-glow { color: var(--color-neon-purple); text-shadow: 0 0 5px var(--color-neon-purple), 0 0 10px var(--color-neon-purple), 0 0 15px var(--color-neon-purple); }
+.neon-white-glow { color: var(--color-neon-white); text-shadow: 0 0 5px var(--color-neon-white), 0 0 10px var(--color-neon-white), 0 0 15px var(--color-neon-white); }
+.neon-blue-glow { color: var(--color-neon-blue); text-shadow: 0 0 5px var(--color-neon-blue), 0 0 10px var(--color-neon-blue), 0 0 15px var(--color-neon-blue); }
+.neon-orange-glow { color: var(--color-neon-orange); text-shadow: 0 0 5px var(--color-neon-orange), 0 0 10px var(--color-neon-orange), 0 0 15px var(--color-neon-orange); }
+.neon-green-glow { color: var(--color-neon-green); text-shadow: 0 0 5px var(--color-neon-green), 0 0 10px var(--color-neon-green), 0 0 15px var(--color-neon-green); }
 
-/* Command highlight with neon yellow glow */
-.neon-yellow-glow {
-    color: #ffff00; /* bright yellow */
-    text-shadow: 
-        0 0 5px #ffff00,
-        0 0 10px #ffff00,
-        0 0 15px #ffff00,
-        0 0 20px #ffff00;
-    animation: neon-yellow-pulse 2.5s ease-in-out infinite;
-}
-
-/* Command highlight with neon purple glow */
-.neon-purple-glow {
-    color: #9932cc; /* dark orchid purple */
-    text-shadow: 
-        0 0 5px #9932cc,
-        0 0 10px #9932cc,
-        0 0 15px #9932cc,
-        0 0 20px #9932cc;
-    animation: neon-purple-pulse 2s ease-in-out infinite;
-}
-
-/* Command highlight with neon white glow */
-.neon-white-glow {
-    color: #ffffff; /* bright white */
-    text-shadow: 
-        0 0 5px #ffffff,
-        0 0 10px #ffffff,
-        0 0 15px #ffffff,
-        0 0 20px #ffffff;
-    animation: neon-white-pulse 3s ease-in-out infinite;
-}
-
-/* Command highlight with neon blue glow */
-.neon-blue-glow {
-    color: #00bfff; /* deep sky blue */
-    text-shadow: 
-        0 0 5px #00bfff,
-        0 0 10px #00bfff,
-        0 0 15px #00bfff,
-        0 0 20px #00bfff;
-    animation: neon-blue-pulse 2.8s ease-in-out infinite;
-}
-
-/* Command highlight with neon orange glow */
-.neon-orange-glow {
-    color: #ff8c00; /* dark orange */
-    text-shadow: 
-        0 0 5px #ff8c00,
-        0 0 10px #ff8c00,
-        0 0 15px #ff8c00,
-        0 0 20px #ff8c00;
-    animation: neon-orange-pulse 2.3s ease-in-out infinite;
-}
-
-/* Command highlight with neon green glow */
-.neon-green-glow {
-    color: #00ff00; /* bright green */
-    text-shadow: 
-        0 0 5px #00ff00,
-        0 0 10px #00ff00,
-        0 0 15px #00ff00,
-        0 0 20px #00ff00;
-    animation: neon-green-pulse 2.7s ease-in-out infinite;
-}
-
-@keyframes neon-pink-pulse {
-    0%, 100% {
-        text-shadow: 
-            0 0 5px #ff1493,
-            0 0 10px #ff1493,
-            0 0 15px #ff1493,
-            0 0 20px #ff1493;
-    }
-    50% {
-        text-shadow: 
-            0 0 10px #ff1493,
-            0 0 20px #ff1493,
-            0 0 30px #ff1493,
-            0 0 40px #ff1493;
-    }
-}
-
-@keyframes neon-yellow-pulse {
-    0%, 100% {
-        text-shadow: 
-            0 0 5px #ffff00,
-            0 0 10px #ffff00,
-            0 0 15px #ffff00,
-            0 0 20px #ffff00;
-    }
-    50% {
-        text-shadow: 
-            0 0 10px #ffff00,
-            0 0 20px #ffff00,
-            0 0 30px #ffff00,
-            0 0 40px #ffff00;
-    }
-}
-
-@keyframes neon-purple-pulse {
-    0%, 100% {
-        text-shadow: 
-            0 0 5px #9932cc,
-            0 0 10px #9932cc,
-            0 0 15px #9932cc,
-            0 0 20px #9932cc;
-    }
-    50% {
-        text-shadow: 
-            0 0 10px #9932cc,
-            0 0 20px #9932cc,
-            0 0 30px #9932cc,
-            0 0 40px #9932cc;
-    }
-}
-
-@keyframes neon-white-pulse {
-    0%, 100% {
-        text-shadow: 
-            0 0 5px #ffffff,
-            0 0 10px #ffffff,
-            0 0 15px #ffffff,
-            0 0 20px #ffffff;
-    }
-    50% {
-        text-shadow: 
-            0 0 10px #ffffff,
-            0 0 20px #ffffff,
-            0 0 30px #ffffff,
-            0 0 40px #ffffff;
-    }
-}
-
-@keyframes neon-blue-pulse {
-    0%, 100% {
-        text-shadow: 
-            0 0 5px #00bfff,
-            0 0 10px #00bfff,
-            0 0 15px #00bfff,
-            0 0 20px #00bfff;
-    }
-    50% {
-        text-shadow: 
-            0 0 10px #00bfff,
-            0 0 20px #00bfff,
-            0 0 30px #00bfff,
-            0 0 40px #00bfff;
-    }
-}
-
-@keyframes neon-orange-pulse {
-    0%, 100% {
-        text-shadow: 
-            0 0 5px #ff8c00,
-            0 0 10px #ff8c00,
-            0 0 15px #ff8c00,
-            0 0 20px #ff8c00;
-    }
-    50% {
-        text-shadow: 
-            0 0 10px #ff8c00,
-            0 0 20px #ff8c00,
-            0 0 30px #ff8c00,
-            0 0 40px #ff8c00;
-    }
-}
-
-@keyframes neon-green-pulse {
-    0%, 100% {
-        text-shadow: 
-            0 0 5px #00ff00,
-            0 0 10px #00ff00,
-            0 0 15px #00ff00,
-            0 0 20px #00ff00;
-    }
-    50% {
-        text-shadow: 
-            0 0 10px #00ff00,
-            0 0 20px #00ff00,
-            0 0 30px #00ff00,
-            0 0 40px #00ff00;
-    }
+@keyframes neon-pulse {
+    0%, 100% { text-shadow: 0 0 5px currentColor, 0 0 10px currentColor, 0 0 15px currentColor; }
+    50% { text-shadow: 0 0 10px currentColor, 0 0 20px currentColor, 0 0 30px currentColor; }
 }
 
 /* Blinking cursor effect */
@@ -347,185 +126,40 @@
 }
 
 @keyframes blink {
-    from, to { 
-        background-color: transparent; 
-        box-shadow: none; 
-    }
-    50% { 
-        background-color: var(--crt-text); 
-        box-shadow: var(--crt-glow); 
-    }
+    from, to { background-color: transparent; box-shadow: none; }
+    50% { background-color: var(--crt-text); box-shadow: var(--crt-glow); }
 }
 
 /* Mobile responsiveness */
 @media (max-width: 768px) {
-    .terminal-header {
-        font-size: 1rem;
-        padding: 0.75rem 1rem;
-        border-radius: 6px;
-    }
-    
-    /* Ensure consistent neon glow scaling on tablets */
-    .neon-pink-glow,
-    .neon-yellow-glow,
-    .neon-purple-glow,
-    .neon-white-glow,
-    .neon-blue-glow,
-    .neon-orange-glow,
-    .neon-green-glow {
-        text-shadow: 
-            0 0 3px currentColor,
-            0 0 6px currentColor,
-            0 0 9px currentColor,
-            0 0 12px currentColor;
-    }
+    .terminal-header { font-size: 1rem; padding: 0.75rem 1rem; }
+    .neon-glow { text-shadow: 0 0 3px currentColor, 0 0 6px currentColor, 0 0 9px currentColor; }
 }
 
 @media (max-width: 480px) {
-    .terminal-header {
-        font-size: var(--mobile-font-size);
-        padding: 0.5rem 0.75rem;
-        word-break: break-word;
-        /* Prevent horizontal scroll */
-        max-width: 100%;
-        box-sizing: border-box;
-    }
-    
-    /* Optimized mobile animations - faster and less resource intensive */
-    .neon-pink-glow {
-        animation-duration: 2s;
-    }
-    
-    .neon-yellow-glow {
-        animation-duration: 2s;
-    }
-    
-    .neon-purple-glow {
-        animation-duration: 1.5s;
-    }
-    
-    .neon-white-glow {
-        animation-duration: 2.5s;
-    }
-    
-    .neon-blue-glow {
-        animation-duration: 2.2s;
-    }
-    
-    .neon-orange-glow {
-        animation-duration: 1.8s;
-    }
-    
-    .neon-green-glow {
-        animation-duration: 2.1s;
-    }
-    
-    /* Reduced glow intensity for mobile performance */
-    .neon-pink-glow,
-    .neon-yellow-glow,
-    .neon-purple-glow,
-    .neon-white-glow,
-    .neon-blue-glow,
-    .neon-orange-glow,
-    .neon-green-glow {
-        text-shadow: 
-            0 0 2px currentColor,
-            0 0 4px currentColor,
-            0 0 6px currentColor,
-            0 0 8px currentColor;
-    }
+    .terminal-header { font-size: var(--mobile-font-size); padding: 0.5rem 0.75rem; word-break: break-word; }
+    .neon-glow { animation-duration: 2s; text-shadow: 0 0 2px currentColor, 0 0 4px currentColor, 0 0 6px currentColor; }
 }
 
-/* High contrast mode support */
+/* Accessibility */
 @media (prefers-contrast: high) {
-    .terminal-header {
-        border-color: #ffffff;
-        box-shadow: none;
-    }
-    
-    .terminal-header::after {
-        display: none; /* Remove scanlines for accessibility */
-    }
-    
-    /* Ensure high contrast for neon glows */
-    .neon-pink-glow,
-    .neon-yellow-glow,
-    .neon-purple-glow,
-    .neon-white-glow,
-    .neon-blue-glow,
-    .neon-orange-glow,
-    .neon-green-glow {
-        text-shadow: none;
-        font-weight: 900;
-    }
+    .terminal-header { border-color: #ffffff; box-shadow: none; }
+    .terminal-header::after { display: none; }
+    .neon-glow { text-shadow: none; font-weight: 900; }
 }
 
-/* Reduced motion support */
 @media (prefers-reduced-motion: reduce) {
-    .terminal-header::after,
-    .neon-pink-glow,
-    .neon-yellow-glow,
-    .neon-purple-glow,
-    .neon-white-glow,
-    .neon-blue-glow,
-    .neon-orange-glow,
-    .neon-green-glow,
-    .cursor {
-        animation: none;
-    }
-    
-    /* Provide static glow effect when animations are disabled */
-    .neon-pink-glow,
-    .neon-yellow-glow,
-    .neon-purple-glow,
-    .neon-white-glow,
-    .neon-blue-glow,
-    .neon-orange-glow,
-    .neon-green-glow {
-        text-shadow: 
-            0 0 5px currentColor,
-            0 0 10px currentColor;
-    }
+    .terminal-header::after, .neon-glow, .cursor { animation: none; }
+    .neon-glow { text-shadow: 0 0 5px currentColor, 0 0 10px currentColor; }
 }
 
 /* Print styles */
 @media print {
-    .terminal-header {
-        background: white;
-        color: black;
-        border: 1px solid black;
-        box-shadow: none;
-    }
-    
-    .terminal-header::after {
-        display: none;
-    }
-    
-    .neon-pink-glow,
-    .neon-yellow-glow,
-    .neon-purple-glow,
-    .neon-white-glow,
-    .neon-blue-glow,
-    .neon-orange-glow,
-    .neon-green-glow {
-        color: black;
-        text-shadow: none;
-        animation: none;
-    }
+    .terminal-header { background: white; color: black; border: 1px solid black; box-shadow: none; }
+    .terminal-header::after, .neon-glow { display: none; }
+    .neon-glow { color: black; text-shadow: none; animation: none; }
 }
 
-/* Dark mode support */
-@media (prefers-color-scheme: dark) {
-    :root {
-        --crt-bg: #0a0e0a;
-        --crt-text: #00ff41;
-    }
-}
-
-/* Light mode fallback */
-@media (prefers-color-scheme: light) {
-    :root {
-        --crt-bg: #1a1e1a;
-        --crt-text: #00dd33;
-    }
-}
+/* Color Scheme Support */
+@media (prefers-color-scheme: dark) { :root { --crt-bg: #0a0e0a; --crt-text: #00ff41; } }
+@media (prefers-color-scheme: light) { :root { --crt-bg: #1a1e1a; --crt-text: #00dd33; } }
