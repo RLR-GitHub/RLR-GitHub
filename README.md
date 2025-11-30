@@ -35,7 +35,7 @@
 <details>
 <summary><h2>🎓 Academic Foundation</h2></summary>
 
-**M.S. Electrical & Computer Engineering** | *Purdue University* | Graduating December 2025
+**M.S. Electrical & Computer Engineering** | *Purdue University* | Graduated: December 2025
 
 **Areas of Interest**: Signal & Image Processing, Deep Learning & Neural Networks, Computer Vision
 
@@ -55,7 +55,7 @@
 
 <div align="center" style="margin: 2rem 0;"><hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #AA0000, transparent); width: 60%;"></div>
 
-**B.S. Computer Engineering** | *University of Michigan-Dearborn* | Graduated with Distinction
+**B.S. Computer Engineering** | *University of Michigan-Dearborn* | Winter 2020 | Graduated with Distinction
 
 **Core Mentors**: [Dr. Paul Watta](mailto:pwatta@umich.edu) (ML/CV), [Dr. Adnan Shaout](mailto:shaout@umich.edu) (Hardware)
 
@@ -65,14 +65,14 @@
 <details>
 <summary><h2>💼 Professional Experience</h2></summary>
 
-### Machine Learning Research Intern - *Raytheon Technologies Research Center*
+### Machine Learning Research Intern - *Raytheon Technologies Research Center* | Summer 2023
 - Developed rapid prototyping and data collection methods for robotics intelligence.
 - Enabled smart detection of metal anomalies using structured light, earning commendation from leadership.
 
-### Research Assistant - *University of Michigan Autonomous Vehicle Project*
+### Research Assistant - *University of Michigan Autonomous Vehicle Project* | Summer 2018 - Winter 2020
 - Core team member for the MDAS.ai autonomous shuttle, designing a sensory data pipeline on NVIDIA TX2.
 
-### Engineering Intern - *Ford Motor Company*
+### Engineering Intern - *Ford Motor Company* | Summer 2017
 - Gained expertise in functional safety (ISO 26262) and battery architecture.
 </details>
 
