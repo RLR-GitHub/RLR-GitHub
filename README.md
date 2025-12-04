@@ -27,7 +27,15 @@
 
 </div>
 
-<br><br>
+<br>
+
+<div align="center">
+
+### [View Interactive Terminal Resume](https://rodericklrenwick.com) | *Type `cv` in the terminal*
+
+</div>
+
+<br>
 
 > A portfolio of machine learning, computer vision, and hardware design projects, bridging AI research with practical application.
 
