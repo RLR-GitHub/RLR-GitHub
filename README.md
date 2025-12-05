@@ -31,6 +31,37 @@
 </a>
 </div>
 
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     TECH STACK (2x2 Flex Grid)
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+<strong>🧠 AI/ML</strong><br><br>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" />
+</td>
+<td align="center" width="50%">
+<strong>⚡ Hardware</strong><br><br>
+<img src="https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi&theme=dark" />
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<strong>☁️ Web & Cloud</strong><br><br>
+<img src="https://skillicons.dev/icons?i=react,typescript,d3,aws,docker&theme=dark" />
+</td>
+<td align="center" width="50%">
+<strong>🔧 Tools</strong><br><br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash&theme=dark" />
+</td>
+</tr>
+</table>
+
+</div>
+
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
@@ -82,34 +113,6 @@
 | **📊 AI Manifold** | Interactive knowledge topology visualization | D3.js, React, TypeScript | 🟢 Live |
 | **🎭 AI Ethics Statement** | Mission statement on responsible AI development | React, TypeScript | 🟢 Live |
 | **🧩 Dyslexic Advantage** | Interactive visualization of neurodivergent pattern recognition | D3.js, React | 🟢 Live |
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     TECH STACK (Icon Grid)
-     ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**AI/ML Frameworks**
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" />
-
-**Hardware & Systems**
-
-<img src="https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi&theme=dark" />
-
-**Web & Cloud**
-
-<img src="https://skillicons.dev/icons?i=react,typescript,d3,aws,docker&theme=dark" />
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash&theme=dark" />
-
-</div>
 
 ---
 
