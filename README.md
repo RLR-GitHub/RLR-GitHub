@@ -317,8 +317,8 @@ Open to **research collaborations**, **ML/CV projects**, and **hardware-AI integ
 
 ### 📡 The AI Revolution Will Not Be Televised
 
-<!-- Typewriter Animation - Neon Green to Red Finale -->
-![Manifesto](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=50&pause=2000&color=39FF14&background=0A0A1500&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=180&lines=The+revolution+will+not+be+televised.;The+revolution+will+not+be+brought+to+you+by+OpenAI;in+four+parts+without+commercial+interruption.;The+revolution+will+not+show+you+pictures+of+Sam+Altman;blowing+a+bugle+and+leading+a+charge.;The+revolution+will+be+open-source.;The+revolution+will+be+decentralized.;The+revolution+will+run+on+local+hardware.;The+revolution+will+not+require+API+keys.;The+revolution+will+be+live.)
+<!-- Typewriter Animation - Neon Green (char by char, no multiline) -->
+![Manifesto](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=35&pause=1200&color=39FF14&background=0A0A1500&center=true&vCenter=true&repeat=true&width=650&height=40&lines=The+revolution+will+not+be+televised.;The+revolution+will+not+be+brought+to+you+by+OpenAI;in+four+parts+without+commercial+interruption.;The+revolution+will+not+show+you+pictures+of+Sam+Altman;blowing+a+bugle+and+leading+a+charge.;The+revolution+will+be+open-source.;The+revolution+will+be+decentralized.;The+revolution+will+run+on+local+hardware.;The+revolution+will+not+require+API+keys.;The+revolution+will+be+live.)
 
 <!-- Final Statement - Neon Red -->
 ```diff
