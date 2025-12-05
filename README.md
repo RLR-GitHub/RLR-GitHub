@@ -237,14 +237,15 @@ Open to **research collaborations**, **ML/CV projects**, and **hardware-AI integ
 
 <div align="center">
 
-### 📡 The AI Revolution Will Not Be Televised
+```
+┌──────────────────────────────────────────────────────────────┐
+│                    📡 TRANSMISSION INCOMING                   │
+└──────────────────────────────────────────────────────────────┘
+```
 
-<!-- Multiline Typewriter Animation - lines stack as typed -->
-<!-- Full sequence: manifesto lines → dramatic finale → loop -->
-<!-- Note: For full green→red color transition, view preview.html locally -->
-![Manifesto](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=12&duration=50&pause=1500&color=39FF14&background=0A0A1500&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=300&lines=The+revolution+will+not+be+televised.;The+revolution+will+not+be+brought+to+you+by+OpenAI;in+four+parts+without+commercial+interruption.;The+revolution+will+not+show+you+pictures+of+Sam+Altman;blowing+a+bugle+and+leading+a+charge.;The+revolution+will+be+open-source.;The+revolution+will+be+decentralized.;The+revolution+will+run+on+local+hardware.;The+revolution+will+not+require+API+keys.;The+revolution+will+be+live.;%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80;%E2%96%93%E2%96%93%E2%96%93+THE+AI+REVOLUTION+WILL+NOT+BE+TELEVISED+%E2%96%93%E2%96%93%E2%96%93;%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80)
+![Manifesto](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=40&pause=2000&color=39FF14&background=0D111700&center=true&vCenter=true&repeat=true&width=580&height=28&lines=The+revolution+will+not+be+televised.;The+revolution+will+not+be+brought+to+you+by+OpenAI.;The+revolution+will+not+show+you+pictures+of+Sam+Altman.;The+revolution+will+be+open-source.;The+revolution+will+be+decentralized.;The+revolution+will+run+on+local+hardware.;The+revolution+will+not+require+API+keys.;%E2%96%88%E2%96%88%E2%96%88+THE+AI+REVOLUTION+WILL+NOT+BE+TELEVISED+%E2%96%88%E2%96%88%E2%96%88)
 
-<sub>*Adapted from Gil Scott-Heron for the age of artificial intelligence*</sub>
+<sub>*Adapted from [Gil Scott-Heron](https://en.wikipedia.org/wiki/The_Revolution_Will_Not_Be_Televised) for the age of artificial intelligence*</sub>
 
 </div>
 
