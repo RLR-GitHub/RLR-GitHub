@@ -30,12 +30,7 @@
 
 <div align="center">
 
-<!-- Shields.io Badges (Always Reliable) -->
-![Profile Views](https://komarev.com/ghpvc/?username=RLR-GitHub&style=for-the-badge&color=c026d3)
-![GitHub followers](https://img.shields.io/github/followers/RLR-GitHub?style=for-the-badge&color=c026d3&labelColor=0a0a15)
-![GitHub stars](https://img.shields.io/github/stars/RLR-GitHub?style=for-the-badge&color=22d3ee&labelColor=0a0a15)
-
-<!-- GitHub Profile Summary Cards (Reliable Alternative) -->
+<!-- GitHub Profile Summary Cards -->
 <a href="https://github.com/RLR-GitHub">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RLR-GitHub&theme=radical" />
 </a>
@@ -83,45 +78,12 @@
 
 </div>
 
-### 🌐 Live Web Projects
+### 🔬 Archived Projects
 
-| Project | Description | Features | Link |
-|:-------:|-------------|----------|:----:|
-| **🖥️ rory.computer** | Hacker Terminal & AI Manifesto | Interactive CLI, Easter eggs, Theme switcher, OS shell simulation | [![Live](https://img.shields.io/badge/LIVE-22d3ee?style=flat-square)](https://rory.computer) |
-| **🧠 r0ry.com** | Original ML/CV Portfolio | TensorFlow, PyTorch, OpenCV project showcases | [![Live](https://img.shields.io/badge/LIVE-a855f7?style=flat-square)](https://r0ry.com) |
-| **🧠 rory.software** | AI Knowledge Manifold | CLT visualizations, AI ethics statement, Dyslexic Advantage explorer | [![Live](https://img.shields.io/badge/LIVE-ec4899?style=flat-square)](https://rory.software) |
-| **🏢 rory.engineer** | Day in the Life Dashboard | Lithography demos, Interactive roadmaps | [![Live](https://img.shields.io/badge/NEW-4ade80?style=flat-square)](https://rory.engineer) |
-
-### 🔬 Independent Excursions
-
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|:------:|
-| **🐱 CatNet** | AI-powered feline identification with UNet segmentation | PyTorch, OpenCV, Raspberry Pi | 📦 Archived |
-| **🅿️ ParkSmart** | Full-stack CV parking management system | React, Python, TensorFlow | 📦 Archived |
-| **📊 AI Manifold** | Interactive knowledge topology visualization | D3.js, React, TypeScript | 🟢 Live |
-| **🎭 AI Ethics Statement** | Mission statement on responsible AI development | React, TypeScript | 🟢 Live |
-| **🧩 Dyslexic Advantage** | Interactive visualization of neurodivergent pattern recognition | D3.js, React | 🟢 Live |
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     SUGGESTED PROJECT IMAGES (for future use)
-     ═══════════════════════════════════════════════════════════════════════════
-
-     Recommended screenshots/images to add:
-
-     1. RemyWGAN-GP: Generated face samples grid (256x256)
-     2. ECE475: FPGA board photo or VHDL waveform screenshot
-     3. rory.computer: Terminal screenshot with green text on black
-     4. r0ry.com: Hero section or project gallery screenshot
-     5. rory.software: CLT visualization or AI manifold graph
-     6. CatNet: Cat detection bounding boxes example
-     7. ParkSmart: Parking lot occupancy heatmap
-
-     Format: Store in /assets/ folder, reference as:
-     ![Project Name](https://raw.githubusercontent.com/RLR-GitHub/RLR-GitHub/main/assets/project-name.png)
-
-     ═══════════════════════════════════════════════════════════════════════════ -->
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **🐱 CatNet** | AI-powered feline identification with UNet segmentation | PyTorch, OpenCV, Raspberry Pi |
+| **🅿️ ParkSmart** | Full-stack CV parking management system | React, Python, TensorFlow |
 
 ---
 
@@ -183,22 +145,14 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     ACTIVITY GRAPH
-     ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 📊 Contribution Activity
-
+<!-- Minimal Activity Display -->
 <div align="center">
 
-<!-- GitHub Profile Summary Cards (Reliable) -->
 <a href="https://github.com/RLR-GitHub">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RLR-GitHub&theme=radical&utcOffset=-5" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RLR-GitHub&theme=radical" />
 </a>
 
-<!-- GitHub Trophies (Always Reliable) -->
-[![Trophies](https://github-profile-trophy.vercel.app/?username=RLR-GitHub&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15)](https://github.com/RLR-GitHub)
+[![Commits](https://github-profile-trophy.vercel.app/?username=RLR-GitHub&theme=radical&no-frame=true&no-bg=true&column=2&margin-w=15&title=Commits,Repositories)](https://github.com/RLR-GitHub)
 
 </div>
 
@@ -273,11 +227,6 @@
 - Generative model stability (GANs, Diffusion)
 - Interpretable & explainable AI
 - Real-time computer vision systems
-
-### Interactive Explorations
-- **[AI Ethics Mission Statement](https://rory.software)** - Responsible AI development manifesto
-- **[Dyslexic Advantage Visualization](https://rory.software)** - Pattern recognition in neurodivergence
-- **[Hacker Terminal](https://rory.computer)** - Interactive CLI experience
 
 </details>
 
