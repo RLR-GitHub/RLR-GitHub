@@ -24,25 +24,11 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     QUICK STATS SECTION
-     ═══════════════════════════════════════════════════════════════════════════ -->
-
+<!-- GitHub Profile Summary Card -->
 <div align="center">
-
-<!-- GitHub Profile Summary Cards -->
 <a href="https://github.com/RLR-GitHub">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RLR-GitHub&theme=radical" />
 </a>
-
-<a href="https://github.com/RLR-GitHub">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RLR-GitHub&theme=radical" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RLR-GitHub&theme=radical" />
-</a>
-
-<!-- GitHub Streak (DenverCoder1's reliable version) -->
-<img src="https://streak-stats.demolab.com?user=RLR-GitHub&theme=radical&hide_border=true&background=0a0a15&stroke=c026d3&ring=c026d3&fire=22d3ee&currStreakLabel=22d3ee" />
-
 </div>
 
 ---
@@ -140,19 +126,6 @@
 [![Resume](https://img.shields.io/badge/Resume-22d3ee?style=for-the-badge&logo=readthedocs&logoColor=white)](https://rlr-github.github.io/2025resume.html)
 [![Hub](https://img.shields.io/badge/Hub-a855f7?style=for-the-badge&logo=safari&logoColor=white)](https://rodericklrenwick.com)
 [![Email](https://img.shields.io/badge/Email-ec4899?style=for-the-badge&logo=gmail&logoColor=white)](mailto:RoderickLRenwick@gmail.com)
-
-</div>
-
----
-
-<!-- Minimal Activity Display -->
-<div align="center">
-
-<a href="https://github.com/RLR-GitHub">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RLR-GitHub&theme=radical&utcOffset=-5" />
-</a>
-
-[![Commits](https://github-profile-trophy.vercel.app/?username=RLR-GitHub&theme=radical&no-frame=true&no-bg=true&column=2&margin-w=15&title=Commits,Repositories)](https://github.com/RLR-GitHub)
 
 </div>
 
@@ -295,3 +268,35 @@ Open to **research collaborations**, **ML/CV projects**, and **hardware-AI integ
 <sub>Built with 🧠 and ☕ | Theme: Cyberpunk Fuchsia</sub>
 
 </div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     DETAILED STATS (Hidden by Default)
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+<details>
+<summary><h2>📊 Detailed Stats</h2></summary>
+
+<div align="center">
+
+<!-- Stats & Languages -->
+<a href="https://github.com/RLR-GitHub">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RLR-GitHub&theme=radical" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RLR-GitHub&theme=radical" />
+</a>
+
+<!-- Streak -->
+<img src="https://streak-stats.demolab.com?user=RLR-GitHub&theme=radical&hide_border=true&background=0a0a15&stroke=c026d3&ring=c026d3&fire=22d3ee&currStreakLabel=22d3ee" />
+
+<!-- Productive Time -->
+<a href="https://github.com/RLR-GitHub">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RLR-GitHub&theme=radical&utcOffset=-5" />
+</a>
+
+<!-- Trophies -->
+[![Trophies](https://github-profile-trophy.vercel.app/?username=RLR-GitHub&theme=radical&no-frame=true&no-bg=true&column=2&margin-w=15&title=Commits,Repositories)](https://github.com/RLR-GitHub)
+
+</div>
+
+</details>
