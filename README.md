@@ -64,12 +64,24 @@
 
 </div>
 
-### 🔬 Archived Projects
+### 🌐 Live Web Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **🐱 CatNet** | AI-powered feline identification with UNet segmentation | PyTorch, OpenCV, Raspberry Pi |
-| **🅿️ ParkSmart** | Full-stack CV parking management system | React, Python, TensorFlow |
+| Project | Description | Features | Link |
+|:-------:|-------------|----------|:----:|
+| **🖥️ rory.computer** | Hacker Terminal & AI Manifesto | Interactive CLI, Easter eggs, Theme switcher, OS shell simulation | [![Live](https://img.shields.io/badge/LIVE-22d3ee?style=flat-square)](https://rory.computer) |
+| **🧠 r0ry.com** | Original ML/CV Portfolio | TensorFlow, PyTorch, OpenCV project showcases | [![Live](https://img.shields.io/badge/LIVE-a855f7?style=flat-square)](https://r0ry.com) |
+| **🧠 rory.software** | AI Knowledge Manifold | CLT visualizations, AI ethics statement, Dyslexic Advantage explorer | [![Live](https://img.shields.io/badge/LIVE-ec4899?style=flat-square)](https://rory.software) |
+| **🏢 rory.engineer** | Day in the Life Dashboard | Lithography demos, Interactive roadmaps | [![Live](https://img.shields.io/badge/NEW-4ade80?style=flat-square)](https://rory.engineer) |
+
+### 🔬 Independent Excursions
+
+| Project | Description | Tech Stack | Status |
+|---------|-------------|------------|:------:|
+| **🐱 CatNet** | AI-powered feline identification with UNet segmentation | PyTorch, OpenCV, Raspberry Pi | 📦 Archived |
+| **🅿️ ParkSmart** | Full-stack CV parking management system | React, Python, TensorFlow | 📦 Archived |
+| **📊 AI Manifold** | Interactive knowledge topology visualization | D3.js, React, TypeScript | 🟢 Live |
+| **🎭 AI Ethics Statement** | Mission statement on responsible AI development | React, TypeScript | 🟢 Live |
+| **🧩 Dyslexic Advantage** | Interactive visualization of neurodivergent pattern recognition | D3.js, React | 🟢 Live |
 
 ---
 
