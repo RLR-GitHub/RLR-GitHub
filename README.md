@@ -317,15 +317,12 @@ Open to **research collaborations**, **ML/CV projects**, and **hardware-AI integ
 
 ### 📡 The AI Revolution Will Not Be Televised
 
-<!-- Typewriter Animation - Neon Green (char by char, no multiline) -->
-![Manifesto](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=35&pause=1200&color=39FF14&background=0A0A1500&center=true&vCenter=true&repeat=true&width=650&height=40&lines=The+revolution+will+not+be+televised.;The+revolution+will+not+be+brought+to+you+by+OpenAI;in+four+parts+without+commercial+interruption.;The+revolution+will+not+show+you+pictures+of+Sam+Altman;blowing+a+bugle+and+leading+a+charge.;The+revolution+will+be+open-source.;The+revolution+will+be+decentralized.;The+revolution+will+run+on+local+hardware.;The+revolution+will+not+require+API+keys.;The+revolution+will+be+live.)
+<!-- Typewriter Animation - Green manifesto, then Red finale -->
+<!-- Phase 1: Green Manifesto Lines -->
+![Manifesto](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=70&pause=2500&color=39FF14&background=0A0A1500&center=true&vCenter=true&repeat=true&width=620&height=35&lines=The+revolution+will+not+be+televised.;The+revolution+will+not+be+brought+to+you+by+OpenAI;in+four+parts+without+commercial+interruption.;The+revolution+will+not+show+you+pictures+of+Sam+Altman;blowing+a+bugle+and+leading+a+charge.;The+revolution+will+be+open-source.;The+revolution+will+be+decentralized.;The+revolution+will+run+on+local+hardware.;The+revolution+will+not+require+API+keys.;The+revolution+will+be+live.;%E2%96%88%E2%96%88%E2%96%88+THE+AI+REVOLUTION+WILL+NOT+BE+TELEVISED+%E2%96%88%E2%96%88%E2%96%88)
 
-<!-- Final Statement - Neon Red -->
-```diff
-- ════════════════════════════════════════════════════════════════════
-+ ▓▓▓  THE AI REVOLUTION WILL NOT BE TELEVISED  ▓▓▓
-- ════════════════════════════════════════════════════════════════════
-```
+<!-- Phase 2: Red Final Statement (plays after green cycle via separate SVG) -->
+![Finale](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=12&duration=60&pause=4000&color=FF0040&background=0A0A1500&center=true&vCenter=true&repeat=true&width=550&height=30&lines=%E2%94%80%E2%94%80%E2%94%80+THE+AI+REVOLUTION+WILL+NOT+BE+TELEVISED+%E2%94%80%E2%94%80%E2%94%80)
 
 <sub>*Adapted from Gil Scott-Heron for the age of artificial intelligence*</sub>
 
