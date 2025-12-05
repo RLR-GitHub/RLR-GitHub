@@ -30,14 +30,23 @@
 
 <div align="center">
 
-<!-- GitHub Stats Cards Row -->
+<!-- Shields.io Badges (Always Reliable) -->
+![Profile Views](https://komarev.com/ghpvc/?username=RLR-GitHub&style=for-the-badge&color=c026d3)
+![GitHub followers](https://img.shields.io/github/followers/RLR-GitHub?style=for-the-badge&color=c026d3&labelColor=0a0a15)
+![GitHub stars](https://img.shields.io/github/stars/RLR-GitHub?style=for-the-badge&color=22d3ee&labelColor=0a0a15)
+
+<!-- GitHub Profile Summary Cards (Reliable Alternative) -->
 <a href="https://github.com/RLR-GitHub">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RLR-GitHub&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a15&title_color=c026d3&icon_color=22d3ee&text_color=e2e8f0&ring_color=c026d3" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RLR-GitHub&layout=compact&theme=radical&hide_border=true&bg_color=0a0a15&title_color=c026d3&text_color=e2e8f0&langs_count=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RLR-GitHub&theme=radical" />
 </a>
 
-<!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RLR-GitHub&theme=radical&hide_border=true&background=0a0a15&stroke=c026d3&ring=c026d3&fire=22d3ee&currStreakLabel=22d3ee" />
+<a href="https://github.com/RLR-GitHub">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RLR-GitHub&theme=radical" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RLR-GitHub&theme=radical" />
+</a>
+
+<!-- GitHub Streak (DenverCoder1's reliable version) -->
+<img src="https://streak-stats.demolab.com?user=RLR-GitHub&theme=radical&hide_border=true&background=0a0a15&stroke=c026d3&ring=c026d3&fire=22d3ee&currStreakLabel=22d3ee" />
 
 </div>
 
@@ -65,21 +74,12 @@
 
 <div align="center">
 
-<!-- Project Cards Row 1 -->
-<a href="https://github.com/RLR-GitHub/RemyWGAN-GP">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RLR-GitHub&repo=RemyWGAN-GP&theme=radical&hide_border=true&bg_color=0a0a15&title_color=c026d3&icon_color=22d3ee&text_color=e2e8f0" />
-</a>
-<a href="https://github.com/RLR-GitHub/ECE475">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RLR-GitHub&repo=ECE475&theme=radical&hide_border=true&bg_color=0a0a15&title_color=c026d3&icon_color=22d3ee&text_color=e2e8f0" />
-</a>
-
-<!-- Project Cards Row 2 -->
-<a href="https://github.com/RLR-GitHub/MultilayerPerceptron">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RLR-GitHub&repo=MultilayerPerceptron&theme=radical&hide_border=true&bg_color=0a0a15&title_color=c026d3&icon_color=22d3ee&text_color=e2e8f0" />
-</a>
-<a href="https://github.com/RLR-GitHub/ECE370">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RLR-GitHub&repo=ECE370&theme=radical&hide_border=true&bg_color=0a0a15&title_color=c026d3&icon_color=22d3ee&text_color=e2e8f0" />
-</a>
+| Project | Description | Tech |
+|---------|-------------|------|
+| [![RemyWGAN-GP](https://img.shields.io/badge/🧠_RemyWGAN--GP-c026d3?style=for-the-badge)](https://github.com/RLR-GitHub/RemyWGAN-GP) | Wasserstein GAN with Gradient Penalty for image generation | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) |
+| [![ECE475](https://img.shields.io/badge/🔬_ECE475-22d3ee?style=for-the-badge)](https://github.com/RLR-GitHub/ECE475) | Deep Learning coursework & implementations | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) |
+| [![MultilayerPerceptron](https://img.shields.io/badge/🧮_MultilayerPerceptron-c026d3?style=for-the-badge)](https://github.com/RLR-GitHub/MultilayerPerceptron) | Neural network from scratch implementation | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) |
+| [![ECE370](https://img.shields.io/badge/⚡_ECE370-22d3ee?style=for-the-badge)](https://github.com/RLR-GitHub/ECE370) | Computer Architecture & Systems | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black) ![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat) |
 
 </div>
 
@@ -191,7 +191,14 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RLR-GitHub&bg_color=0a0a15&color=c026d3&line=22d3ee&point=e879f9&area=true&area_color=c026d3&hide_border=true)](https://github.com/RLR-GitHub)
+<!-- GitHub Profile Summary Cards (Reliable) -->
+<a href="https://github.com/RLR-GitHub">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RLR-GitHub&theme=radical&utcOffset=-5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RLR-GitHub&theme=radical" />
+</a>
+
+<!-- GitHub Trophies (Always Reliable) -->
+[![Trophies](https://github-profile-trophy.vercel.app/?username=RLR-GitHub&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15)](https://github.com/RLR-GitHub)
 
 </div>
 
