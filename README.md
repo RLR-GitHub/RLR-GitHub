@@ -31,34 +31,12 @@
 </a>
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     TECH STACK (2x2 Flex Grid)
-     ═══════════════════════════════════════════════════════════════════════════ -->
-
+<!-- Tech Stack - Compact Badge Strip -->
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
-<strong>🧠 AI/ML</strong><br><br>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" />
-</td>
-<td align="center" width="50%">
-<strong>⚡ Hardware</strong><br><br>
-<img src="https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi&theme=dark" />
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-<strong>☁️ Web & Cloud</strong><br><br>
-<img src="https://skillicons.dev/icons?i=react,typescript,d3,aws,docker&theme=dark" />
-</td>
-<td align="center" width="50%">
-<strong>🔧 Tools</strong><br><br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash&theme=dark" />
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,c,cpp,cuda,raspberrypi&perline=8&theme=dark" />
+<br>
+<img src="https://skillicons.dev/icons?i=react,typescript,threejs,aws,docker,git,linux,bash&perline=8&theme=dark" />
 
 </div>
 
