@@ -1,0 +1,133 @@
+\documentclass[11pt,letterpaper]{article}
+
+\usepackage[margin=0.3in]{geometry}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{ragged2e}
+\usepackage{xcolor}
+\usepackage{multicol}
+\usepackage{graphicx}
+\usepackage{tikz}
+
+% Colors
+\definecolor{headercolor}{HTML}{1f4e79} % Dark blue
+\definecolor{linkcolor}{HTML}{1f4e79}
+
+% Hyperlink setup
+\hypersetup{
+    colorlinks=true,
+    linkcolor=linkcolor,
+    urlcolor=linkcolor,
+    pdfborder={0 0 0},
+}
+
+% Remove section numbering
+\setcounter{secnumdepth}{0}
+
+% Ultra-tight lists to save vertical space
+\setlist[itemize]{nosep, topsep=0pt, partopsep=0pt, parsep=0pt, leftmargin=*, label={\textbullet}}
+
+\begin{document}
+
+\pagestyle{empty} % No page numbers
+
+% Compact header with smaller circular photo
+\noindent\begin{minipage}[t]{0.68\textwidth}
+    \vspace{0pt}
+    \centering
+    {\LARGE\scshape Roderick L. Renwick}\\[0.1em]
+    {\large ML / Computer Vision Engineer}\\[0.6em]
+    \href{https://rodericklrenwick.com}{Portfolio: rodericklrenwick.com} \quad $|\quad$ 
+    \href{https://github.com/RLR-GitHub}{GitHub: RLR-GitHub} \quad $|\quad$ 
+    USA
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.3\textwidth}
+    \raggedleft
+    \vspace{0pt}
+    \begin{tikzpicture}
+        \clip (0,0) circle (1cm);
+        \node at (0,0) {\includegraphics[width=1.75cm]{profile.png}};
+    \end{tikzpicture}
+\end{minipage}
+
+% \vspace{1.2em}
+
+% Summary
+\section{Summary}
+\RaggedRight
+Machine Learning and Computer Vision engineer with experience building real-time perception systems, optimizing ML under performance constraints, and model deployments in autonomy for defense-adjacent environments. Strong in Python and C++, with hands-on experience spanning model development, systems integration, and edge/embedded inference.
+
+% \vspace{0.3em}
+
+% Technical Skills (two columns – saves vertical space)
+\section{Technical Skills}
+\begin{multicols}{2}
+\begin{itemize}
+    \item ML/CV: CNNs, detection, segmentation, GANs
+    \item Frameworks: PyTorch, TensorFlow, OpenCV
+    \item Programming: Python, C++, Linux
+    \item Systems: IRT pipelines, embedded inference, performance optimization
+    \item Hardware Exposure: FPGA (VHDL), compute-constrained ML
+    \item Domains: Autonomy, perception, defense-grade AI, on-device ML
+\end{itemize}
+\end{multicols}
+
+% \vspace{0.3em}
+
+% Experience
+\section{Experience}
+
+\textbf{Machine Learning Research Intern} \hfill \textbf{Raytheon Technologies}\\
+% \textit{Defense AI Research \& Development}
+\begin{itemize}
+    \item Developed ML and CV algorithms for aerospace and defense applications
+    \item Built and evaluated perception pipelines under real-world operational constraints
+    \item Collaborated with senior researchers on validation, robustness analysis, and deployment readiness
+    \item Contributed to research efforts where reliability and correctness were critical system requirements
+\end{itemize}
+
+% \vspace{0.3em}
+
+\textbf{Autonomous Systems Research} \hfill \textbf{University Project}
+\begin{itemize}
+    \item Designed real-time perception stack for an autonomous shuttle platform
+    \item Implemented object detection and tracking modules supporting downstream decision-making
+    \item Addressed noisy sensor data, dynamic environments, and real-time execution constraints
+\end{itemize}
+
+% \vspace{0.3em}
+
+% Projects
+\section{Projects}
+
+\textbf{Embedded Computer Vision System}
+\begin{itemize}
+    \item Designed and deployed CNN-based detection and segmentation pipeline on edge hardware
+    \item Optimized inference latency and memory footprint for real-time performance
+    \item Integrated model output into an end-to-end system rather than a standalone demo
+\end{itemize}
+
+\textbf{GAN-Based Image Generation System}
+\begin{itemize}
+    \item Built and trained a GAN for image synthesis
+    \item Evaluated output quality, stability, and failure modes
+    \item Gained experience debugging training dynamics in deep generative models
+\end{itemize}
+
+\textbf{FPGA Neural Network Accelerator (VHDL)}
+\begin{itemize}
+    \item Implemented a multi-layer perceptron in hardware
+    \item Compared hardware execution characteristics against software baselines
+    \item Developed hardware-aware intuition for ML system design
+\end{itemize}
+
+% \vspace{0.3em}
+
+% Education (updated for current date – now completed)
+\section{Education}
+
+\textbf{M.S. Electrical \& Computer Engineering} \hfill Purdue University, December 2025\\
+\textbf{B.S. Computer Engineering} \hfill University of Michigan–Dearborn, 2020
+
+\end{document}
