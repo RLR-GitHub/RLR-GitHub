@@ -19,7 +19,7 @@
   <p align="center">
     <a href="https://rlr-github.github.io"><img src="https://img.shields.io/badge/Portfolio-7ec9cc?style=for-the-badge&logo=rocket&logoColor=white" alt="Portfolio"/></a>
     <a href="https://rory.software"><img src="https://img.shields.io/badge/AI_Manifold-cc7ec9?style=for-the-badge&logo=brain&logoColor=white" alt="AI Manifold"/></a>
-    <a href="https://rlr-github.github.io/2025resume.html"><img src="https://img.shields.io/badge/Resume-9a7ecc?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume"/></a>
+    <a href="https://rlr-github.github.io/2026resume.html"><img src="https://img.shields.io/badge/Resume-9a7ecc?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume"/></a>
     <a href="https://rodericklrenwick.com"><img src="https://img.shields.io/badge/Professional-7ecc9a?style=for-the-badge&logo=user&logoColor=white" alt="Professional"/></a>
     <a href="mailto:RoderickLRenwick@gmail.com"><img src="https://img.shields.io/badge/Email-c9cc7e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://github.com/RLR-GitHub"><img src="https://img.shields.io/badge/GitHub-cc9a7e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -43,7 +43,7 @@
 <details>
 <summary><h2>🎓 Academic Foundation</h2></summary>
 
-**M.S. Electrical & Computer Engineering** | *Purdue University* | Graduated: December 2025
+**M.S. Electrical & Computer Engineering** | *Purdue University* | Graduated: February 2026
 
 **Areas of Interest**: Signal & Image Processing, Deep Learning & Neural Networks, Computer Vision
 
