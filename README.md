@@ -1,209 +1,296 @@
-<!-- GitHub Compatible Cyberpunk Terminal Header -->
-<div align="center">
-
-![Terminal Header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFFF&background=111111FF&center=true&vCenter=true&width=800&height=100&lines=_admin%40rlr-github.github%3A+%2Froot%2Fr0ry%2F+%25+.%2Fprofile.sh;%3E%3E+%5B+_FULLNAME+%3A+RODERICK_LAWRENCE_RENWICK+%5D;%3E%3E+%5B+_USERNAME+%3A+RLR-GitHub+%5D;%3E%3E+%5B+_NICKNAME+%3A+r0ry+%5D#gh-dark-mode-only)
-![Terminal Header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=000000&background=FFFFFFFF&center=true&vCenter=true&width=800&height=100&lines=_admin%40rlr-github.github%3A+%2Froot%2Fr0ry%2F+%25+.%2Fprofile.sh;%3E%3E+%5B+_FULLNAME+%3A+RODERICK_LAWRENCE_RENWICK+%5D;%3E%3E+%5B+_USERNAME+%3A+RLR-GitHub+%5D;%3E%3E+%5B+_NICKNAME+%3A+r0ry+%5D#gh-light-mode-only)
-
-</div>
-
-<div align="center" style="border: 5px solid #AA0000; padding:2%; border-radius:10%;">  
-
-  <!-- Typing SVG Animation -->
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=100&color=cc00ffff&center=true&vCenter=true&width=600&lines=Roderick+Lawrence+Renwick;Machine+Learning+Researcher;Computer+Vision+Engineer;AI+Systems+Architect;Deep+Learning+Specialist;Embedded+Systems+Expert;Neural+Network+Innovator;Signal+Processing+Scientist;Hardware+Accelerated+ML;AI%2FML%2FCV%2FEmbedded+Systems#gh-dark-mode-only)
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=100&color=000000&center=true&vCenter=true&width=600&lines=Roderick+Lawrence+Renwick;Machine+Learning+Researcher;Computer+Vision+Engineer;AI+Systems+Architect;Deep+Learning+Specialist;Embedded+Systems+Expert;Neural+Network+Innovator;Signal+Processing+Scientist;Hardware+Accelerated+ML;AI%2FML%2FCV%2FEmbedded+Systems#gh-light-mode-only)
-
-
-  <!-- Profile Picture: Use raw.githubusercontent for consistent rendering -->
-  <img src="https://raw.githubusercontent.com/RLR-GitHub/RLR-GitHub/main/RemyFaceCroppedDownsampled.JPG" alt="Profile Picture" width="280" style="border:4px solid #AA0000; padding:2%; border-radius:30%; box-shadow:5px 5px 50px rgba(200,100,200,0.8);" />
-  
-  <p align="center">
-    <a href="https://rlr-github.github.io"><img src="https://img.shields.io/badge/Portfolio-7ec9cc?style=for-the-badge&logo=rocket&logoColor=white" alt="Portfolio"/></a>
-    <a href="https://rory.software"><img src="https://img.shields.io/badge/AI_Manifold-cc7ec9?style=for-the-badge&logo=brain&logoColor=white" alt="AI Manifold"/></a>
-    <a href="https://rlr-github.github.io/2026resume.html"><img src="https://img.shields.io/badge/Resume-9a7ecc?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume"/></a>
-    <a href="https://rodericklrenwick.com"><img src="https://img.shields.io/badge/Professional-7ecc9a?style=for-the-badge&logo=user&logoColor=white" alt="Professional"/></a>
-    <a href="mailto:RoderickLRenwick@gmail.com"><img src="https://img.shields.io/badge/Email-c9cc7e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="https://github.com/RLR-GitHub"><img src="https://img.shields.io/badge/GitHub-cc9a7e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  </p>
-
-</div>
-
-<br>
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     RLR-GitHub Profile README - Comprehensive Overhaul
+     Theme: Cyberpunk Fuchsia/Cyan | Last Updated: January 2026
+     ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### [View Interactive Terminal Resume](https://rodericklrenwick.com) | *Type `cv` in the terminal*
+<!-- Animated Terminal Header -->
+![Terminal Header](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=C026D3&background=0A0A1500&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=80&lines=%24+whoami;Roderick+Lawrence+Renwick+%7C+ML%2FCV+Engineer)
+
+<!-- Profile Picture with Glow Effect -->
+<img src="https://raw.githubusercontent.com/RLR-GitHub/RLR-GitHub/main/RemyFaceCroppedDownsampled.JPG" alt="Roderick Renwick" width="180" style="border-radius: 50%; border: 3px solid #c026d3;" />
+
+<!-- One-liner Positioning -->
+### `🧠 ML/CV Engineer` · `⚡ Hardware-Software Co-Design` · `🎓 Purdue MS ECE '26`
+
+*Building intelligent systems from silicon to software*
+
+<!-- Profile Views & Social Badges -->
+![Profile Views](https://komarev.com/ghpvc/?username=RLR-GitHub&color=c026d3&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/RLR-GitHub?style=flat-square&color=22d3ee&label=Followers)](https://github.com/RLR-GitHub?tab=followers)
 
 </div>
 
+---
+
+<!-- GitHub Profile Summary Card -->
+<div align="center">
+<a href="https://github.com/RLR-GitHub">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RLR-GitHub&theme=radical" />
+</a>
+</div>
+
+<!-- Tech Stack - Compact Badge Strip -->
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,c,cpp,cuda,raspberrypi&perline=8&theme=dark" />
 <br>
+<img src="https://skillicons.dev/icons?i=react,typescript,threejs,aws,docker,git,linux,bash&perline=8&theme=dark" />
 
-> A portfolio of machine learning, computer vision, and hardware design projects, bridging AI research with practical application.
+</div>
 
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     ABOUT SECTION (Visible, Not Collapsed)
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+## 👋 About
+
+> Machine Learning Researcher and Computer Vision Engineer specializing in **edge deployment**, **hardware-accelerated inference**, and **embedded AI systems**. I bridge the gap between cutting-edge ML research and practical silicon implementation.
+
+**Currently**: M.S. in Electrical & Computer Engineering from Purdue University (Graduated February 2026), focusing on deep learning optimization for resource-constrained environments.
+
+**Philosophy**: *"Understanding AI systems requires fluency from mathematical foundations through hardware constraints—theory without implementation is incomplete."*
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     FEATURED PROJECTS (Visual Cards)
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [![RemyWGAN-GP](https://img.shields.io/badge/🧠_RemyWGAN--GP-c026d3?style=for-the-badge)](https://github.com/RLR-GitHub/RemyWGAN-GP) | Wasserstein GAN with Gradient Penalty for image generation | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) |
+| [![ECE475](https://img.shields.io/badge/🔬_ECE475-22d3ee?style=for-the-badge)](https://github.com/RLR-GitHub/ECE475) | Deep Learning coursework & implementations | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) |
+| [![MultilayerPerceptron](https://img.shields.io/badge/🧮_MultilayerPerceptron-c026d3?style=for-the-badge)](https://github.com/RLR-GitHub/MultilayerPerceptron) | Neural network from scratch implementation | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) |
+| [![ECE370](https://img.shields.io/badge/⚡_ECE370-22d3ee?style=for-the-badge)](https://github.com/RLR-GitHub/ECE370) | Computer Architecture & Systems | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black) ![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat) |
+
+</div>
+
+### 🌐 Live Web Projects
+
+| Project | Description | Features | Link |
+|:-------:|-------------|----------|:----:|
+| **🖥️ rory.computer** | Hacker Terminal & AI Manifesto | Interactive CLI, Easter eggs, Theme switcher, OS shell simulation | [![Live](https://img.shields.io/badge/LIVE-22d3ee?style=flat-square)](https://rory.computer) |
+| **🧠 r0ry.com** | Original ML/CV Portfolio | TensorFlow, PyTorch, OpenCV project showcases | [![Live](https://img.shields.io/badge/LIVE-a855f7?style=flat-square)](https://r0ry.com) |
+| **🧠 rory.software** | AI Knowledge Manifold | CLT visualizations, AI ethics statement, Dyslexic Advantage explorer | [![Live](https://img.shields.io/badge/LIVE-ec4899?style=flat-square)](https://rory.software) |
+| **🏢 rory.engineer** | Day in the Life Dashboard | Lithography demos, Interactive roadmaps | [![Live](https://img.shields.io/badge/NEW-4ade80?style=flat-square)](https://rory.engineer) |
+
+### 🔬 Independent Excursions
+
+| Project | Description | Tech Stack | Status |
+|---------|-------------|------------|:------:|
+| **🐱 CatNet** | AI-powered feline identification with UNet segmentation | PyTorch, OpenCV, Raspberry Pi | 📦 Archived |
+| **🅿️ ParkSmart** | Full-stack CV parking management system | React, Python, TensorFlow | 📦 Archived |
+| **📊 AI Manifold** | Interactive knowledge topology visualization | D3.js, React, TypeScript | 🟢 Live |
+| **🎭 AI Ethics Statement** | Mission statement on responsible AI development | React, TypeScript | 🟢 Live |
+| **🧩 Dyslexic Advantage** | Interactive visualization of neurodivergent pattern recognition | D3.js, React | 🟢 Live |
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     DOMAIN ECOSYSTEM
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+## 🌐 Domain Ecosystem
+
+<div align="center">
+
+| Domain | Purpose | Key Modules | Status |
+|:------:|:--------|:------------|:------:|
+| [**r0ry.com**](https://r0ry.com) | ML/CV Portfolio & Projects | Project gallery, CV demos | 🟢 |
+| [**rodericklrenwick.com**](https://rodericklrenwick.com) | Professional Hub & Resume | Interactive resume, Ecosystem map | 🟢 |
+| [**rory.engineer**](https://rory.engineer) | Day in the Life Dashboard | Lithography explorer, Roadmaps | 🆕 |
+| [**rory.computer**](https://rory.computer) | Hacker Terminal & AI Manifesto | Terminal CLI, Easter eggs, Themes | 🟢 |
+| [**rory.software**](https://rory.software) | AI Knowledge Manifold | AI Ethics, Dyslexic Advantage, Blog | 🔧 |
+| [**rlr-github.github.io**](https://rlr-github.github.io) | Static Portfolio | GitHub Pages mirror | 🟢 |
+
+</div>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-c026d3?style=for-the-badge&logo=rocket&logoColor=white)](https://rlr-github.github.io)
+[![Resume](https://img.shields.io/badge/Resume-22d3ee?style=for-the-badge&logo=readthedocs&logoColor=white)](https://rlr-github.github.io/2026resume.html)
+[![Hub](https://img.shields.io/badge/Hub-a855f7?style=for-the-badge&logo=safari&logoColor=white)](https://rodericklrenwick.com)
+[![Email](https://img.shields.io/badge/Email-ec4899?style=for-the-badge&logo=gmail&logoColor=white)](mailto:RoderickLRenwick@gmail.com)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     COLLAPSIBLE SECTIONS (Detailed Info)
+     ═══════════════════════════════════════════════════════════════════════════ -->
 
 <details>
-<summary><h2>🎓 Academic Foundation</h2></summary>
+<summary><h2>🎓 Education</h2></summary>
 
-**M.S. Electrical & Computer Engineering** | *Purdue University* | Graduated: February 2026
+### M.S. Electrical & Computer Engineering
+**Purdue University** | Graduated: February 2026
 
-**Areas of Interest**: Signal & Image Processing, Deep Learning & Neural Networks, Computer Vision
+**Focus Areas**: Signal & Image Processing, Deep Learning, Computer Vision, Embedded Systems
 
-**Core Coursework**:
-- ECE 59500 - Introduction to Deep Learning (CNSIP & EE)
-- ECE 62900 - Introduction to Neural Networks (CE & CNSIP)  
-- ECE 69500 - Deep Learning (CE & VLSI)
-- ECE 60400 - Electromagnetic Field Theory (FO)
-- ECE 60000 - Random Variable and Signals (CNSIP)
-- ECE 59500 - Boltzmann Law: Physics to ML (MN)
-- ECE 59500 - Computer Vision on Embedded Systems (CE)
-- ECE 59500 - Computational Lithography
+**Key Coursework**:
+- ECE 59500 - Introduction to Deep Learning
+- ECE 62900 - Introduction to Neural Networks
+- ECE 69500 - Deep Learning (VLSI Focus)
+- ECE 59500 - Computer Vision on Embedded Systems
 - ECE 59500 - Intro to Compilers
-- ENE 554 - Globalization & Engineering
 
-**Focus**: Implementing ML and CV algorithms for edge deployment and field optics.
+---
 
-<div align="center" style="margin: 2rem 0;"><hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #AA0000, transparent); width: 60%;"></div>
+### B.S. Computer Engineering
+**University of Michigan-Dearborn** | Winter 2020 | *Graduated with Distinction*
 
-**B.S. Computer Engineering** | *University of Michigan-Dearborn* | Winter 2020 | Graduated with Distinction
+**Foundation**: VLSI Design, Embedded Systems, Autonomous Vehicle Perception
 
-**Core Mentors**: [Dr. Paul Watta](mailto:pwatta@umich.edu) (ML/CV), [Dr. Adnan Shaout](mailto:shaout@umich.edu) (Hardware)
+**Mentors**:
+- [Dr. Paul Watta](mailto:pwatta@umich.edu) - ML/CV & Autonomous Vehicles
+- [Dr. Adnan Shaout](mailto:shaout@umich.edu) - Hardware & Embedded Systems
 
-**Foundation**: VLSI Design, Embedded Systems, Autonomous Vehicle Perception (ECE270/370, ECE475)
 </details>
 
 <details>
-<summary><h2>💼 Professional Experience</h2></summary>
+<summary><h2>💼 Experience</h2></summary>
 
-### Machine Learning Research Intern - *Raytheon Technologies Research Center* | Summer 2023
-- Developed rapid prototyping and data collection methods for robotics intelligence.
-- Enabled smart detection of metal anomalies using structured light, earning commendation from leadership.
+### Machine Learning Research Intern
+**Raytheon Technologies Research Center** | East Hartford, CT | Summer 2023
+- Developed rapid prototyping methods for robotics intelligence
+- Implemented smart metal anomaly detection using structured light
+- Earned leadership commendation for innovative solutions
 
-### Research Assistant - *University of Michigan Autonomous Vehicle Project* | Summer 2018 - Winter 2020
-- Core team member for the MDAS.ai autonomous shuttle, designing a sensory data pipeline on NVIDIA TX2.
+### Research Assistant
+**University of Michigan Autonomous Vehicle Project** | Summer 2018 - Winter 2020
+- Core team member for MDAS.ai autonomous shuttle
+- Designed sensory data pipeline on NVIDIA TX2
+- Contributed to real-time perception systems
 
-### Engineering Intern - *Ford Motor Company* | Summer 2017
-- Gained expertise in functional safety (ISO 26262) and battery architecture.
+### Engineering Intern
+**Ford Motor Company** | Summer 2017
+- Gained expertise in functional safety (ISO 26262)
+- Worked on battery architecture systems
+
 </details>
 
 <details>
-<summary><h2>🔬 Featured Projects & Technical Work</h2></summary>
+<summary><h2>🔮 Explorations</h2></summary>
 
-### 🤖 Machine Learning Systems
+### Papers & Presentations
+- **[AI Arms Race: US-China Competition](https://www.r0derick.com/presentations/Glob4Engr_E2FinalDraft_RoderickLRenwick.pdf)** - Global engineering perspectives
+- **[Hardware Neural Networks](https://www.r0derick.com/presentations/ECE475_FinalProject_RLR.pdf)** - FPGA MLP implementation
+- **[CatNet Smart Door](https://www.r0derick.com/presentations/0_FinalProject.pdf)** - AI pet access control
+- **[ParkSmart Architecture](https://www.r0derick.com/presentations/ParkSmart_LLD_Presentation.pdf)** - CV parking management
 
-#### [RemyWGAN-GP](https://github.com/RLR-GitHub/RemyWGAN-GP)
-Implementing a WGAN-GP with training dynamics analysis and mode collapse prevention research.
+### Research Interests
+- Edge AI optimization & quantization
+- Hardware-accelerated neural networks
+- Generative model stability (GANs, Diffusion)
+- Interpretable & explainable AI
+- Real-time computer vision systems
 
-#### 🐱 Smart Cat Door (CatNet)
-**Supervisor**: [Dr. Adnan Shaout](mailto:shaout@umich.edu)
-Developing an AI-powered feline identification system using UNet segmentation and CNN classification with real-time embedded inference.
-
-#### 🅿️ ParkSmart Application
-Architecting a full-stack parking management system integrating computer vision analysis, a web backend, and an iOS app.
-
-### ⚡ Hardware-Software Co-Design
-
-#### [VHDL Neural Network](https://github.com/RLR-GitHub/ECE475)
-**Supervisor**: [Dr. Adnan Shaout](mailto:shaout@umich.edu)
-Designing a hardware MLP implementation in VHDL for FPGA deployment with transistor-level design.
-
-#### [Multilayer Perceptron Foundation](https://github.com/RLR-GitHub/MultilayerPerceptron)
-**Course**: ECE370 with [Dr. Paul Watta](mailto:pwatta@umich.edu)
-Building a Python MLP from scratch to provide a first-principles understanding of neural network mathematics.
-
-### 🌐 Research & Visualization
-
-#### [AI Manifold Visualization](https://rory.software)
-Creating an interactive platform for knowledge topology analysis and meta-cognitive understanding of learning systems.
-
-#### Computer Vision Applications
-Developing advanced object detection systems with real-time inference and probabilistic confidence analysis.
 </details>
 
 <details>
-<summary><h2>🛠️ Skills & Expertise</h2></summary>
+<summary><h2>🤝 References</h2></summary>
 
-<div align="center">
-  
-**Core Languages & Frameworks**
+### Academic
+- **[Dr. Paul Watta](mailto:pwatta@umich.edu)** - Associate Professor, UMich-Dearborn
+  - CV/ML Mentor, Autonomous Vehicle Research Supervisor
 
-![Python](https://img.shields.io/badge/Python-90%25-%233776AB?style=for-the-badge&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-85%25-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-80%25-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-85%25-%235C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+- **[Dr. Adnan Shaout](mailto:shaout@umich.edu)** - Professor, UMich-Dearborn
+  - Hardware Neural Network & CatNet Supervisor
 
-**Hardware & Systems**
+### Industry
+- **[Ozgur Erdinc](mailto:ozgur.erdinc@rtrc.com)** - Senior Research Scientist, RTRC
+  - ML Research Internship Director
 
-![VHDL](https://img.shields.io/badge/VHDL-80%25-%230074D9?style=for-the-badge&logo=GHDL&logoColor=white) ![FPGA](https://img.shields.io/badge/FPGA-75%25-%231E90FF?style=for-the-badge&logo=Xilinx&logoColor=white) ![Embedded-C](https://img.shields.io/badge/Embedded_C-85%25-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-70%25-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-**Web & Full-Stack**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-75%25-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-70%25-%2361DAFB?style=for-the-badge&logo=react&logoColor=black) ![D3.js](https://img.shields.io/badge/D3.js-65%25-%23F9A03C?style=for-the-badge&logo=d3.js&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-60%25-%23232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-</div>
 </details>
 
-<details>
-<summary><h2>📚 Educational Resources & Coursework</h2></summary>
+---
 
-### [Repository Collection](https://github.com/RLR-GitHub)
-- [ECE270](https://github.com/RLR-GitHub/ECE270): Pattern Recognition Fundamentals
-- [ECE370](https://github.com/RLR-GitHub/ECE370): Neural Networks & Deep Learning
-
-### Graduate Coursework Demonstrations
-Implementing advanced clustering, dimensionality reduction, and classification algorithms.
-</details>
-
-<details>
-<summary><h2>👥 Academic References</h2></summary>
-
-### [Dr. Paul Watta](mailto:pwatta@umich.edu) - Associate Professor, UMich-Dearborn
-CV/ML Mentor & Autonomous Vehicle Research Supervisor (MDAS.ai).
-
-### [Dr. Adnan Shaout](mailto:shaout@umich.edu) - Professor, UMich-Dearborn
-Hardware Neural Network & CatNet Independent Study Supervisor.
-
-### [Ozgur Erdinc](mailto:ozgur.erdinc@rtrc.com) - Senior Research Scientist, RTRC
-Director of ML research internship in mission-critical aerospace applications.
-</details>
-
-<details>
-<summary><h2>🎯 Research Interests & Goals</h2></summary>
-
-**Current Focus**: Computer vision for embedded systems, generative model stability, hardware-accelerated inference, and interpretable AI systems.
-
-**Future Directions**: Edge AI optimization, advanced neural architectures, and hardware-software co-design for intelligent systems.
-
-**Philosophy**: *"Bridging cutting-edge ML research with practical implementations requires understanding systems from mathematical foundations through hardware constraints."*
-</details>
-
-<details>
-<summary><h2>🌐 Digital Presence</h2></summary>
-
-- **Portfolio**: [rlr-github.github.io](https://rlr-github.github.io)
-- **Professional**: [rodericklrenwick.com](https://rodericklrenwick.com)  
-- **Research Platform**: [rory.software](https://rory.software)
-- **GitHub**: [github.com/RLR-GitHub](https://github.com/RLR-GitHub)
-</details>
-
-<details>
-<summary><h2>📧 Contact</h2></summary>
-
-- **Primary**: [RoderickLRenwick@gmail.com](mailto:RoderickLRenwick@gmail.com)
-- **Academic**: [rrenwick@purdue.edu](mailto:rrenwick@purdue.edu)
-</details>
-
-<details>
-<summary><h2>🤝 Collaboration & Opportunities</h2></summary>
-
-Seeking research opportunities in ML/CV, hardware-accelerated AI, and edge deployment systems. Open to fellowships, collaborative research, and industry partnerships.
-
-**Unique Value**: Integrating hardware, software, and theory to provide a comprehensive understanding of AI systems, from mathematical foundations to silicon implementation.
-</details>
-
-<div align="center" style="margin: 2rem 0;"><hr style="border: none; height: 2px; background: linear-gradient(to right, transparent, #AA0000, transparent); width: 80%;"></div>
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     FOOTER & CONNECT
+     ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<samp><i>"Turn on, tune in, add Gaussian noise, and drop out"</i></samp>
+### 💬 Let's Connect
 
-<br>
+Open to **research collaborations**, **ML/CV projects**, and **hardware-AI integration** opportunities.
 
-<samp><i>"Dyslexia is a feature, not a bug" - enabling unique pattern recognition and systems thinking capabilities</i></samp>
+[![Email](https://img.shields.io/badge/RoderickLRenwick@gmail.com-c026d3?style=flat-square&logo=gmail&logoColor=white)](mailto:RoderickLRenwick@gmail.com)
+[![GitHub](https://img.shields.io/badge/RLR--GitHub-22d3ee?style=flat-square&logo=github&logoColor=white)](https://github.com/RLR-GitHub)
 
 </div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     THE AI REVOLUTION SECTION
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│                    📡 TRANSMISSION INCOMING                   │
+└──────────────────────────────────────────────────────────────┘
+```
+
+![Manifesto](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=40&pause=2000&color=39FF14&background=0D111700&center=true&vCenter=true&repeat=true&width=580&height=28&lines=The+revolution+will+not+be+televised.;The+revolution+will+not+be+brought+to+you+by+OpenAI.;The+revolution+will+not+show+you+pictures+of+Sam+Altman.;The+revolution+will+be+open-source.;The+revolution+will+be+decentralized.;The+revolution+will+run+on+local+hardware.;The+revolution+will+not+require+API+keys.;%E2%96%88%E2%96%88%E2%96%88+THE+AI+REVOLUTION+WILL+NOT+BE+TELEVISED+%E2%96%88%E2%96%88%E2%96%88)
+
+<sub>*Adapted from [Gil Scott-Heron](https://en.wikipedia.org/wiki/The_Revolution_Will_Not_Be_Televised) for the age of artificial intelligence*</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+<samp>
+
+*"Turn on, tune in, add Gaussian noise, and drop out"*
+
+</samp>
+
+<sub>Built with 🧠 and ☕ | Theme: Cyberpunk Fuchsia</sub>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     DETAILED STATS (Hidden by Default)
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+<details>
+<summary><h2>📊 Detailed Stats</h2></summary>
+
+<div align="center">
+
+<!-- Stats & Languages -->
+<a href="https://github.com/RLR-GitHub">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RLR-GitHub&theme=radical" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RLR-GitHub&theme=radical" />
+</a>
+
+<!-- Streak -->
+<img src="https://streak-stats.demolab.com?user=RLR-GitHub&theme=radical&hide_border=true&background=0a0a15&stroke=c026d3&ring=c026d3&fire=22d3ee&currStreakLabel=22d3ee" />
+
+<!-- Productive Time -->
+<a href="https://github.com/RLR-GitHub">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RLR-GitHub&theme=radical&utcOffset=-5" />
+</a>
+
+<!-- Trophies -->
+[![Trophies](https://github-profile-trophy.vercel.app/?username=RLR-GitHub&theme=radical&no-frame=true&no-bg=true&column=2&margin-w=15&title=Commits,Repositories)](https://github.com/RLR-GitHub)
+
+</div>
+
+</details>
